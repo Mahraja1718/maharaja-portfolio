@@ -2,12 +2,15 @@
 import "./App.css";
 import profilePhoto from "./assets/maharaja-photo.jpeg";
 
+import hrScreenshot from "./assets/HR DATASET.png";
+import healthcareScreenshot from "./assets/HEALTH CARE.png";
+import hotelScreenshot from "./assets/HOTEL BOOKING.png";
+
 const skills = [
   "Python", "SQL", "Excel", "Power BI",
   "Tableau", "Pandas", "NumPy", "MySQL",
   "DAX", "Data Cleaning", "EDA", "Data Visualization",
 ];
-
 
 const projects = [
   {
@@ -16,13 +19,19 @@ const projects = [
     category: "Power BI",
     description: "An interactive sales dashboard analyzing revenue, profit, product performance, and business trends.",
     tools: "Power BI • DAX • Excel",
+    link: "https://github.com/Mahraja1718/Power-BI/blob/main/POWER%20PI/sales%20dashboard.pbix",
+    visual: "powerbi",
+    visualTitle: "SALES PERFORMANCE",
+    visualSubtitle: "Revenue • Profit • Growth",
   },
   {
     number: "02",
-    title: "Hospital Data Analysis",
-    category: "Python",
-    description: "A data analysis project exploring hospital data using Pandas, including data cleaning and exploratory analysis.",
-    tools: "Python • Pandas • EDA",
+    title: "HR Dataset Analysis",
+    category: "Power BI",
+    description: "An HR analytics dashboard exploring employee data, attrition, workforce trends, and key HR metrics.",
+    tools: "Power BI • DAX • Data Analysis",
+    link: "https://github.com/Mahraja1718/Power-BI-Project/blob/main/HR%20Dataset.pbix",
+    image: hrScreenshot,
   },
   {
     number: "03",
@@ -30,6 +39,8 @@ const projects = [
     category: "Power BI",
     description: "A healthcare dashboard analyzing patient visits, ratings, and operational performance.",
     tools: "Power BI • DAX • Excel",
+    link: "https://github.com/Mahraja1718/Power-BI-Project/blob/main/healthcare%20dataset.pbix",
+    image: healthcareScreenshot,
   },
   {
     number: "04",
@@ -37,6 +48,10 @@ const projects = [
     category: "SQL",
     description: "An exploratory analysis identifying global layoff patterns, industries, and company trends.",
     tools: "MySQL • SQL • EDA",
+    link: "https://github.com/Mahraja1718/Mysql-project/blob/main/project1.sql",
+    visual: "sql",
+    visualTitle: "GLOBAL LAYOFFS",
+    visualSubtitle: "SQL • Trends • Insights",
   },
   {
     number: "05",
@@ -44,6 +59,10 @@ const projects = [
     category: "Tableau",
     description: "A visualization project exploring housing prices and property-related trends.",
     tools: "Tableau • Data Visualization",
+    link: "https://github.com/Mahraja1718/Tableau/tree/main/TABLEAU",
+    visual: "tableau",
+    visualTitle: "HOUSING INSIGHTS",
+    visualSubtitle: "Prices • Locations • Trends",
   },
   {
     number: "06",
@@ -51,6 +70,8 @@ const projects = [
     category: "Power BI",
     description: "An interactive report analyzing bookings, cancellations, guest metrics, and stay duration.",
     tools: "Power BI • DAX • Excel",
+    link: "https://github.com/Mahraja1718/Power-BI-Project/blob/main/Hotel%20Booking%20Dataset.pbix",
+    image: hotelScreenshot,
   },
   {
     number: "07",
@@ -58,6 +79,10 @@ const projects = [
     category: "Python",
     description: "Exploring Netflix movies and TV shows, genres, ratings, release years, and content trends.",
     tools: "Python • Pandas • Matplotlib",
+    link: "https://github.com/Mahraja1718/maharaja-portfolio/tree/main/Project/Netflix-Dataset-Analysis",
+    visual: "netflix",
+    visualTitle: "NETFLIX DATA",
+    visualSubtitle: "Movies • Shows • Genres",
   },
   {
     number: "08",
@@ -65,6 +90,10 @@ const projects = [
     category: "Python",
     description: "Cleaning and analyzing medical student records, missing values, BMI, and health-related patterns.",
     tools: "Python • Pandas • NumPy",
+    link: "https://github.com/Mahraja1718/maharaja-portfolio/tree/main/Project/Medical-Students-Analysis",
+    visual: "medical",
+    visualTitle: "STUDENT DATA",
+    visualSubtitle: "Cleaning • BMI • Analysis",
   },
   {
     number: "09",
@@ -72,6 +101,10 @@ const projects = [
     category: "Python",
     description: "Analyzing food orders, delivery times, customer ratings, payment methods, and cancellations.",
     tools: "Python • Pandas • Seaborn",
+    link: "https://github.com/Mahraja1718/maharaja-portfolio/tree/main/Project/Food-Delivery-Analysis",
+    visual: "food",
+    visualTitle: "FOOD DELIVERY",
+    visualSubtitle: "Orders • Ratings • Delivery",
   },
   {
     number: "10",
@@ -79,6 +112,10 @@ const projects = [
     category: "Python",
     description: "Cleaning and exploring e-commerce product data, categories, and product-related trends.",
     tools: "Python • Pandas • NumPy",
+    link: "https://github.com/Mahraja1718/maharaja-portfolio/tree/main/Project/Ecommerce-Dataset-Analysis",
+    visual: "ecommerce",
+    visualTitle: "E-COMMERCE DATA",
+    visualSubtitle: "Products • Categories • Sales",
   },
   {
     number: "11",
@@ -86,9 +123,12 @@ const projects = [
     category: "Excel",
     description: "An interactive dashboard using Pivot Tables, charts, and slicers to explore business data.",
     tools: "Excel • Pivot Tables • Charts",
+    link: "https://github.com/Mahraja1718/Excel/tree/main/EXCEL",
+    visual: "excel",
+    visualTitle: "EXCEL ANALYTICS",
+    visualSubtitle: "Pivot Tables • Charts • Insights",
   },
 ];
-
 
 function App() {
   return (
@@ -113,7 +153,7 @@ function App() {
       </header>
 
       <main>
-        {/* HOME SECTION */}
+        {/* HOME */}
         <section className="hero section" id="home">
           <div className="hero-content">
             <div className="availability">
@@ -149,18 +189,10 @@ function App() {
             </div>
 
             <div className="social-links">
-              <a
-                href="https://github.com/Mahraja1718"
-                target="_blank"
-                rel="noreferrer"
-              >
+              <a href="https://github.com/Mahraja1718" target="_blank" rel="noreferrer">
                 GitHub ↗
               </a>
-              <a
-                href="https://www.linkedin.com/in/maharaja-k/"
-                target="_blank"
-                rel="noreferrer"
-              >
+              <a href="https://www.linkedin.com/in/maharaja-k/" target="_blank" rel="noreferrer">
                 LinkedIn ↗
               </a>
             </div>
@@ -183,10 +215,7 @@ function App() {
               <div className="chart">
                 {[35, 58, 45, 75, 55, 88, 68, 100].map((height, index) => (
                   <div className="bar-wrapper" key={index}>
-                    <div
-                      className="bar"
-                      style={{ height: `${height}%` }}
-                    ></div>
+                    <div className="bar" style={{ height: `${height}%` }}></div>
                   </div>
                 ))}
               </div>
@@ -214,13 +243,11 @@ function App() {
           </div>
         </section>
 
-        {/* ABOUT SECTION */}
+        {/* ABOUT */}
         <section className="section about-section" id="about">
           <div className="section-heading">
             <p className="section-label">01 / ABOUT ME</p>
-            <h2>
-              A little about <span>myself.</span>
-            </h2>
+            <h2>A little about <span>myself.</span></h2>
           </div>
 
           <div className="about-content">
@@ -229,9 +256,7 @@ function App() {
             </div>
 
             <div className="about-text">
-              <h3>
-                Curious mind. Analytical thinking. Continuous learning.
-              </h3>
+              <h3>Curious mind. Analytical thinking. Continuous learning.</h3>
 
               <p>
                 I am a B.Tech Information Technology graduate with a
@@ -259,13 +284,11 @@ function App() {
           </div>
         </section>
 
-        {/* SKILLS SECTION */}
+        {/* SKILLS */}
         <section className="section skills-section" id="skills">
           <div className="section-heading">
             <p className="section-label">02 / MY SKILLS</p>
-            <h2>
-              Tools I work <span>with.</span>
-            </h2>
+            <h2>Tools I work <span>with.</span></h2>
             <p className="section-subtitle">
               Technologies and tools I use to explore, analyze, and
               visualize data.
@@ -285,13 +308,11 @@ function App() {
           </div>
         </section>
 
-        {/* PROJECTS SECTION */}
+        {/* PROJECTS */}
         <section className="section projects-section" id="projects">
           <div className="section-heading">
             <p className="section-label">03 / MY WORK</p>
-            <h2>
-              Featured <span>projects.</span>
-            </h2>
+            <h2>Featured <span>projects.</span></h2>
             <p className="section-subtitle">
               A collection of analytical projects where I turn data into
               meaningful stories.
@@ -303,31 +324,54 @@ function App() {
               <article className="project-card" key={project.number}>
                 <div className="project-top">
                   <span>{project.number} / PROJECT</span>
-                  <span className="project-category">
-                    {project.category}
-                  </span>
+                  <span className="project-category">{project.category}</span>
                 </div>
 
-                <div className="project-icon">↗</div>
+                <div className="project-thumbnail">
+                  {project.image ? (
+                    <img src={project.image} alt={`${project.title} screenshot`} />
+                  ) : (
+                    <div className={`thumbnail-art ${project.visual}`}>
+                      <div className="thumbnail-grid-lines"></div>
+                      <div className="thumbnail-content">
+                        <span className="thumbnail-kicker">DATA ANALYSIS PROJECT</span>
+                        <strong>{project.visualTitle}</strong>
+                        <span className="thumbnail-subtitle">{project.visualSubtitle}</span>
+                        <div className="thumbnail-bars">
+                          {[35, 65, 45, 85, 55, 100, 72].map((height, index) => (
+                            <span key={index} style={{ height: `${height}%` }}></span>
+                          ))}
+                        </div>
+                      </div>
+                      <span className="thumbnail-mark">↗</span>
+                    </div>
+                  )}
+                </div>
 
                 <h3>{project.title}</h3>
                 <p>{project.description}</p>
 
-                <div className="project-tools">
-                  {project.tools}
-                </div>
+                <div className="project-tools">{project.tools}</div>
+
+                <a
+                  className="project-link"
+                  href={project.link}
+                  target="_blank"
+                  rel="noreferrer"
+                  aria-label={`View source code for ${project.title}`}
+                >
+                  View Source Code <span>↗</span>
+                </a>
               </article>
             ))}
           </div>
         </section>
 
-        {/* EDUCATION SECTION */}
+        {/* EDUCATION */}
         <section className="section education-section" id="education">
           <div className="section-heading">
             <p className="section-label">04 / EDUCATION</p>
-            <h2>
-              My learning <span>journey.</span>
-            </h2>
+            <h2>My learning <span>journey.</span></h2>
           </div>
 
           <div className="timeline">
@@ -351,7 +395,7 @@ function App() {
           </div>
         </section>
 
-        {/* CONTACT SECTION */}
+        {/* CONTACT */}
         <section className="contact-section section" id="contact">
           <p className="section-label">05 / GET IN TOUCH</p>
 
@@ -367,10 +411,7 @@ function App() {
           </p>
 
           <div className="contact-actions">
-            <a
-              href="mailto:YOUR_EMAIL@gmail.com"
-              className="primary-button"
-            >
+            <a href="mailto:YOUR_EMAIL@gmail.com" className="primary-button">
               Email Me ↗
             </a>
 
