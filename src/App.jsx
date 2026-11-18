@@ -8,33 +8,34 @@ const skills = [
   "DAX", "Data Cleaning", "EDA", "Data Visualization",
 ];
 
+
 const projects = [
   {
     number: "01",
     title: "Sales Dashboard",
     category: "Power BI",
-    description: "An interactive sales dashboard to analyze revenue, profit, product performance, and business trends.",
+    description: "An interactive sales dashboard analyzing revenue, profit, product performance, and business trends.",
     tools: "Power BI • DAX • Excel",
   },
   {
     number: "02",
     title: "Hospital Data Analysis",
-    category: "Power BI",
-    description: "A hospital analytics report exploring patient information, hospital performance, and healthcare metrics.",
-    tools: "Power BI • DAX • Data Analysis",
+    category: "Python",
+    description: "A data analysis project exploring hospital data using Pandas, including data cleaning and exploratory analysis.",
+    tools: "Python • Pandas • EDA",
   },
   {
     number: "03",
     title: "Healthcare Analysis",
     category: "Power BI",
-    description: "A healthcare dashboard designed to understand patient visits, ratings, and operational performance.",
+    description: "A healthcare dashboard analyzing patient visits, ratings, and operational performance.",
     tools: "Power BI • DAX • Excel",
   },
   {
     number: "04",
     title: "Global Layoffs Analysis",
     category: "SQL",
-    description: "An exploratory data analysis project identifying global layoff patterns, industries, and company trends.",
+    description: "An exploratory analysis identifying global layoff patterns, industries, and company trends.",
     tools: "MySQL • SQL • EDA",
   },
   {
@@ -48,10 +49,46 @@ const projects = [
     number: "06",
     title: "Hotel Booking Analysis",
     category: "Power BI",
-    description: "An interactive hotel booking report analyzing bookings, cancellations, guest metrics, and stay duration.",
+    description: "An interactive report analyzing bookings, cancellations, guest metrics, and stay duration.",
     tools: "Power BI • DAX • Excel",
   },
+  {
+    number: "07",
+    title: "Netflix Dataset Analysis",
+    category: "Python",
+    description: "Exploring Netflix movies and TV shows, genres, ratings, release years, and content trends.",
+    tools: "Python • Pandas • Matplotlib",
+  },
+  {
+    number: "08",
+    title: "Medical Students Analysis",
+    category: "Python",
+    description: "Cleaning and analyzing medical student records, missing values, BMI, and health-related patterns.",
+    tools: "Python • Pandas • NumPy",
+  },
+  {
+    number: "09",
+    title: "Food Delivery Analysis",
+    category: "Python",
+    description: "Analyzing food orders, delivery times, customer ratings, payment methods, and cancellations.",
+    tools: "Python • Pandas • Seaborn",
+  },
+  {
+    number: "10",
+    title: "E-commerce Dataset Analysis",
+    category: "Python",
+    description: "Cleaning and exploring e-commerce product data, categories, and product-related trends.",
+    tools: "Python • Pandas • NumPy",
+  },
+  {
+    number: "11",
+    title: "Excel Dashboard",
+    category: "Excel",
+    description: "An interactive dashboard using Pivot Tables, charts, and slicers to explore business data.",
+    tools: "Excel • Pivot Tables • Charts",
+  },
 ];
+
 
 function App() {
   return (
