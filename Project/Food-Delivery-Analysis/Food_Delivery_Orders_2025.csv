@@ -1,0 +1,626 @@
+Order_ID,Order_Date,Order_Time,Customer_Name,City,Cuisine,Restaurant_Type,Payment_Mode,Order_Amount,Discount,Delivery_Time_Min,Customer_Rating,Order_Status
+ORD1566,2025-06-18,20:31,Pooja Kumar,Mumbai,Fast Food,Restaurant,Credit Card,202.0,40.0,27.0,4.0,Delivered
+ORD1462,2025-01-30,19:23,priya das,Delhi,North Indian,Cafe,Cash on Delivery,266.0,53.0,,,Cancelled
+ORD1581,2025-09-16,13:38,  Deepa Rao ,Delhi,Chinese,Restaurant,COD,198.0,30.0,43.0,,Delivered
+ORD1544,2025-12-24,21:16,Arjun Nair,Mumbai,Biryani,Restaurant,Upi,,51.0,51.0,3.0,Delivered
+ORD1222,2025-05-02,19:53,sneha iyer,hyderabad,North Indian,Cloud Kitchen,Debit Card,450.0,68.0,36.0,5.0,Delivered
+ORD1159,2025-10-04,13:02,Kavya Gupta,Delhi,Chinese,Restaurant,Cash on Delivery,273.0,55.0,25.0,5.0,Delivered
+ORD1241,2025-03-02,20:59,Vikram Reddy,delhi,South Indian,Cafe,Upi,356.0,0.0,37.0,4.0,Delivered
+ORD1089,30/04/2025,16:37,  Aditya Menon ,Hyderabad,North Indian,Restaurant,UPI,491.0,74.0,31.0,5.0,Delivered
+ORD1407,06-Apr-2025,09:20,Kavya Das,Chennai,fast food,Restaurant,UPI,265.0,0.0,40.0,4.0,Delivered
+ORD1097,2025-11-08,19:19,Aditya Gupta,Mumbai,north indian,Restaurant,UPI,759.0,0.0,38.0,4.0,Delivered
+ORD1366,2025-09-20,12:25,  VIKRAM PATEL ,New Delhi,North Indian,Restaurant,UPI,392.0,0.0,45.0,2.0,Delivered
+ORD1572,2025-01-07,12:26,PRIYA MENON,Mumbai,Chinese,Restaurant,UPI,376.0,75.0,34.0,3.0,Delivered
+ORD1497,N/A,20:43,Kavya Rao,mumbai,South Indian,Cloud Kitchen,debit card,186.0,19.0,47.0,,Delivered
+ORD1196,2025-04-23,09:45,Rohit Rao,Hyderabad,Biryani,Restaurant,upi,699.0,0.0,40.0,4.0,Delivered
+ORD1317,2025-03-09,13:22,VIKRAM PATEL,Mumbai,BIRYANI,Restaurant,Cash on Delivery,250.0,12.0,43.0,5.0,Delivered
+ORD1154,2025-09-27,13:44,Arjun Menon,Pune,Biryani,Cafe,UPI,442.0,0.0,33.0,4.0,Delivered
+ORD1172,2025-10-21,19:12,  Priya Reddy ,Mumbai,South Indian,Restaurant,Credit card,243.0,0.0,56.0,3.0,Delivered
+ORD1094,2025-06-26,09:17,Ananya Sharma,Bengaluru,Chinese,Restaurant,WALLET,333.0,33.0,38.0,4.0,Delivered
+ORD1199,2025-03-02,13:29,Vikram Reddy,Bengaluru,Healthy,Restaurant,Credit Card,274.0,14.0,43.0,,Delivered
+ORD1026,2025-07-20,08:32,Arjun Sharma,Chennai,Fast Food,Cafe,DC,517.0,0.0,33.0,4.0,Delivered
+ORD1279,2025-08-12,16:05,Vikram Sharma,Mumbai,South Indian,Restaurant,WALLET,,0.0,27.0,4.0,Delivered
+ORD1262,28-May-2025,13:01,Divya Iyer,Chennai,FAST FOOD,Cloud Kitchen,UPI,146.0,15.0,30.0,,Delivered
+ORD1360,2025-04-12,19:06,Divya Sharma,Bangalore,South Indian,Cloud Kitchen,Credit Card,290.0,0.0,,,Cancelled
+ORD1431,2025-11-02,19:32,Divya Iyer,Mumbai,HEALTHY,Cloud Kitchen,Cash on Delivery,241.0,24.0,45.0,3.0,Delivered
+ORD1573,2025-05-09,20:21,Priya Sharma,Mumbai,north indian,Cafe,UPI,407.0,81.0,,,Cancelled
+ORD1496,2025-10-28,20:48,Arjun Nair,chennai,Biryani,Restaurant,Cash on Delivery,330.0,0.0,33.0,4.0,Delivered
+ORD1536,2025-01-05,19:48,Pooja Menon,bangalore,north indian,Restaurant,Cash on Delivery,651.0,33.0,44.0,4.0,Delivered
+ORD1189,2025-09-02,13:53,Karthik Reddy,Chennai,Chinese,Cloud Kitchen,Debit Card,479.0,0.0,42.0,5.0,Delivered
+ORD1098,2025-08-10,13:36,Priya Patel,mumbai,Fast Food,Cloud Kitchen,Credit Card,562.0,56.0,40.0,3.0,Delivered
+ORD1130,31-Aug-2025,19:20,Meena Reddy,Hyderabad,Healthy,Restaurant,UPI,,71.0,34.0,4.0,Delivered
+ORD1434,2025-12-30,21:47,Nikhil Rao,Bengaluru,fast food,Cafe,UPI,256.0,51.0,37.0,4.0,Delivered
+ORD1061,2025-06-15,19:38,Rahul Joshi,Mumbai,North Indian,Cloud Kitchen,Cash on Delivery,378.0,38.0,30.0,5.0,Delivered
+ORD1105,18-Aug-2025,17:21,Pooja Das,Hyderabad,North Indian,Cloud Kitchen,UPI,313.0,16.0,33.0,4.0,Delivered
+ORD1093,02-Jun-2025,17:48,Vikram Das,MUMBAI,Biryani,Cafe,Cash on Delivery,410.0,62.0,34.0,5.0,Delivered
+ORD1192,22/02/2025,09:15,  Manoj Patel ,Chennai,Biryani,Restaurant,Debit Card,,0.0,32.0,5.0,Delivered
+ORD1295,2025-06-15,21:23,  Sneha Nair ,Delhi,North Indian,Restaurant,Credit Card,457.0,91.0,34.0,4.0,Delivered
+ORD1307,2025-06-15,23:56,Harish Menon,MUMBAI,Chinese,Cloud Kitchen,Debit Card,407.0,61.0,42.0,4.0,Delivered
+ORD1215,27-May-2025,16:54,Deepa Iyer,chennai,Fast Food,Cloud Kitchen,UPI,321.0,64.0,28.0,5.0,Delivered
+ORD1297,2025-08-09,19:19,  Sneha Rao ,CHENNAI,Fast Food,Cafe,UPI ,417.0,83.0,33.0,5.0,Delivered
+ORD1129,2025-05-29,09:43,Lakshmi Sharma,Pune,Fast Food,Restaurant,Credit Card,325.0,32.0,26.0,4.0,Delivered
+ORD1354,2025-12-22,19:26,suresh das,Delhi,Biryani,Restaurant,Credit Card,99999.0,65.0,40.0,4.0,Delivered
+ORD1349,2025-10-04,20:30,ARJUN RAO,Hyderabad,South Indian,Cafe,UPI,307.0,61.0,38.0,4.0,Delivered
+ORD1027,2025-05-04,19:04,Kavya Kumar,Pune,Desserts,Cloud Kitchen,Upi,224.0,0.0,31.0,4.0,Delivered
+ORD1355,2025-09-07,21:55,arjun sharma,Bengaluru,North Indian,Cafe,UPI,443.0,89.0,35.0,,Delivered
+ORD1424,2025-09-26,12:33,kavya iyer,Chennai,South Indian,Cafe,UPI,347.0,17.0,43.0,4.0,Delivered
+ORD1034,2025-07-28,12:34,  Divya Das ,HYDERABAD ,North Indian,Cloud Kitchen,upi,350.0,52.0,40.0,4.0,Delivered
+ORD1288,08-Mar-2025,09:38,DIVYA KUMAR,Mumbai,Fast Food,Restaurant,Upi,312.0,47.0,30.0,5.0,Delivered
+ORD1273,2025-07-15,17:56,Meena Rao, Pune,NORTH INDIAN,Cloud Kitchen,COD,490.0,74.0,31.0,4.0,Delivered
+ORD1096,2025-05-14,16:50,Karthik Rao,Chennai,Fast Food,Restaurant,UPI ,396.0,40.0,21.0,5.0,Delivered
+ORD1393,2025-12-04,09:36,Manoj Gupta,Bengaluru,CHINESE,Cloud Kitchen,Debit Card,408.0,20.0,34.0,5.0,Delivered
+ORD1508,04-Apr-2025,21:30,  Divya Sharma ,Chennai,Chinese,Restaurant,Wallet,279.0,14.0,34.0,5.0,Delivered
+ORD1145,2025-05-28,23:44,Karthik Menon,Hyderabad,Fast Food,Cloud Kitchen,cod,301.0,45.0,34.0,5.0,Delivered
+ORD1564,28/12/2025,09:38,  POOJA KUMAR ,Hyderabad,Fast Food,Cafe,Credit Card,325.0,49.0,38.0,4.0,Delivered
+ORD1138,31/12/2025,21:30,Nikhil Das,Bengaluru,North Indian,Restaurant,COD,674.0,67.0,34.0,,Delivered
+ORD1151,22-Sep-2025,21:57,Divya Iyer,Bengaluru,Biryani,Cloud Kitchen,Credit Card,423.0,21.0,46.0,4.0,Delivered
+ORD1563,2025-02-03,21:36,divya patel,Delhi,Chinese,Cloud Kitchen,upi,346.0,17.0,45.0,4.0,Delivered
+ORD1455,27-Dec-2025,12:16,Suresh Menon,Pune,North Indian,Cloud Kitchen,UPI,505.0,50.0,32.0,5.0,Delivered
+ORD1050,2025-12-23,21:48,Vikram Iyer,Hyderabad,Healthy,Cafe,UPI,321.0,32.0,38.0,5.0,Delivered
+ORD1040,2025-06-04,12:36,Aditya Rao,Mumbai,Fast Food,Restaurant,Credit Card,174.0,17.0,,,Cancelled
+ORD1459,2025-06-01,20:49,Nikhil Rao,Hyderabad,South Indian,Restaurant,UPI,309.0,62.0,,0.0,Delivered
+ORD1362,2025-03-09,23:20,Meena Das,Chennai,Fast Food,Restaurant,UPI,279.0,,44.0,3.0,Delivered
+ORD1281,2025-02-22,12:24,Isha Sharma,Chennai,Biryani,Restaurant,UPI,487.0,24.0,37.0,4.0,Delivered
+ORD1328,2025-03-22,20:52,Lakshmi Nair,Pune,Biryani,Cafe,Credit Card,365.0,0.0,36.0,4.0,Delivered
+ORD1170,2025-07-05,20:02,  Lakshmi Sharma ,PUNE,South Indian,Restaurant,UPI,293.0,29.0,40.0,,Delivered
+ORD1219,2025-11-10,20:34,Meena Kumar,bangalore,Chinese,Restaurant,Debit Card,303.0,30.0,,5.0,Delivered
+ORD1331,2025-07-23,12:11,Ananya Gupta,Bengaluru,Fast Food,Restaurant,DC,259.0,0.0,29.0,5.0,Delivered
+ORD1255,2025-10-24,19:32,Manoj Reddy,Chennai,South Indian,Cafe,Credit Card,385.0,0.0,,,Cancelled
+ORD1299,2025-02-22,21:09,Nikhil Reddy,Mumbai,Biryani,Restaurant,Debit Card,668.0,100.0,26.0,5.0,Delivered
+ORD1005,2025-12-25,19:27,Aditya Reddy,Chennai ,South Indian,Restaurant,UPI ,421.0,63.0,34.0,5.0,Delivered
+ORD1576,2025-11-30,17:21,Rahul Joshi,Chennai,Fast Food,Restaurant,UPI,351.0,35.0,50.0,,Delivered
+ORD1147,2025-08-11,12:38,  Harish Sharma ,PUNE,North Indian,Cafe,Debit Card,274.0,0.0,41.0,4.0,Delivered
+ORD1465,14/03/2025,20:44,Manoj Sharma,Bengaluru,SOUTH INDIAN,Cloud Kitchen,Debit Card,193.0,10.0,,,Cancelled
+ORD1221,2025-08-27,21:31,  Arjun Kumar ,Bengaluru,South Indian,Cafe,cash on delivery,257.0,0.0,44.0,4.0,Delivered
+ORD1568,18-Oct-2025,20:48,Priya Singh,Mumbai,Healthy,Cloud Kitchen,Credit card,501.0,100.0,39.0,5.0,Delivered
+ORD1150,2025-03-29,12:37,  Ananya Nair ,Chennai,North Indian,Cloud Kitchen,Cash on Delivery,680.0,0.0,53.0,3.0,Delivered
+ORD1382,2025-12-28,19:24,Sneha Reddy,Bangalore,Chinese,Restaurant,UPI,550.0,0.0,44.0,4.0,Delivered
+ORD1244,20-Dec-2025,17:18,meena das,Delhi,South Indian,Cloud Kitchen,Cash on Delivery,321.0,0.0,34.0,5.0,Delivered
+ORD1501,2025-03-16,21:31,Rohit Patel,hyderabad,Desserts,Cafe,COD,183.0,0.0,34.0,5.0,Delivered
+ORD1308,08-Nov-2025,16:51,VIKRAM SINGH,Mumbai,North Indian,Cloud Kitchen,Cash on Delivery,536.0,107.0,37.0,5.0,Delivered
+ORD1325,2025-10-17,19:04,Sneha Reddy,Chennai,Biryani,Restaurant,Credit card,339.0,0.0,,,Cancelled
+ORD1411,2025-02-25,17:56,  Ananya Kumar ,Delhi,Biryani,Restaurant,Cash on Delivery,427.0,64.0,32.0,5.0,Delivered
+ORD1062,04-Mar-2025,12:11,Karthik Das,Pune,north indian,Restaurant,Credit Card,775.0,39.0,25.0,,Delivered
+ORD1269,2025-11-01,12:41,KARTHIK NAIR,Bengaluru,NORTH INDIAN,Cloud Kitchen,Debit Card,499.0,50.0,31.0,5.0,Delivered
+ORD1398,2025-03-08,16:31,Lakshmi Singh,Hyderabad,Desserts,Restaurant,UPI,193.0,29.0,35.0,4.0,Delivered
+ORD1583,22/03/2025,21:37,Nikhil Kumar,hyderabad,Desserts,Cafe,UPI,242.0,0.0,,5.0,Refunded
+ORD1391,2025-03-30,20:17,  Ananya Reddy ,DELHI,HEALTHY,Restaurant,UPI ,274.0,0.0,40.0,4.0,Delivered
+ORD1166,22-Dec-2025,19:25,ISHA JOSHI,Mumbai,BIRYANI,Restaurant,Cash on Delivery,408.0,20.0,40.0,5.0,Delivered
+ORD1357,2025-04-16,17:49,Pooja Kumar,Chennai,Chinese,Restaurant,Upi,309.0,15.0,30.0,5.0,Delivered
+ORD1353,2025-10-25,17:27,Pooja Singh,Bengaluru,North Indian,Cloud Kitchen,UPI ,639.0,32.0,42.0,4.0,Delivered
+ORD1251,18-Jul-2025,12:10,kavya kumar,Delhi,NORTH INDIAN,Restaurant,Upi,292.0,44.0,37.0,4.0,Delivered
+ORD1156,2025-05-10,21:13,Rohit Rao,DELHI,Fast Food,Restaurant,UPI,395.0,59.0,34.0,,Delivered
+ORD1377,25-Oct-2025,01:15,Kavya Gupta,bangalore,South Indian,Cloud Kitchen,UPI,520.0,26.0,,,Cancelled
+ORD1480,2025-12-08,12:25,Rohit Iyer,Pune,North Indian,Cafe,UPI,421.0,84.0,21.0,5.0,Delivered
+ORD1428,2025-06-02,20:13,arjun iyer,Pune,Fast Food,Cloud Kitchen,UPI ,252.0,,44.0,,Delivered
+ORD1286,2025-01-20,20:27,Isha Kumar,BENGALURU,Fast Food,Cafe,cash on delivery,313.0,47.0,48.0,,Delivered
+ORD1468,25-Apr-2025,19:40,sneha nair,Mumbai,North Indian,Restaurant,UPI,326.0,0.0,39.0,4.0,Delivered
+ORD1263,,21:36,priya gupta,Chennai,South Indian,Cloud Kitchen,Credit Card,284.0,57.0,47.0,4.0,Delivered
+ORD1244,20-Dec-2025,17:18,meena das,Delhi,South Indian,Cloud Kitchen,Cash on Delivery,321.0,0.0,34.0,5.0,Delivered
+ORD1248,2025-05-07,12:55,  Isha Das ,Mumbai,Chinese,Restaurant,Cash on Delivery,,29.0,48.0,,Delivered
+ORD1405,13-Sep-2025,13:38,Vikram Kumar,Hyderabad,Biryani,Cafe,Credit card,535.0,27.0,42.0,4.0,Delivered
+ORD1296,2025-04-21,13:26,Rahul Rao, Pune,North Indian,Cloud Kitchen,Cash on Delivery,-263.0,39.0,27.0,,Delivered
+ORD1402,20-Nov-2025,16:30,Pooja Singh,Bangalore,Fast Food,Restaurant,UPI,230.0,12.0,,3.0,Delivered
+ORD1012,10-Apr-2025,00:22,Meena Singh,Bangalore,Chinese,Restaurant,Credit Card,334.0,0.0,24.0,5.0,Delivered
+ORD1110,2025-01-05,08:20,Harish Joshi,Chennai ,Desserts,Cloud Kitchen,Wallet,261.0,39.0,24.0,5.0,Delivered
+ORD1330,2025-05-03,13:53,deepa reddy,CHENNAI,Biryani,Restaurant,UPI ,467.0,0.0,32.0,5.0,Delivered
+ORD1318,2025-04-17,12:23,Deepa Menon,Bangalore,South Indian,Cloud Kitchen,UPI,187.0,9.0,55.0,,Delivered
+ORD1375,2025-03-29,23:09,Suresh Reddy,Bombay,Desserts,Cloud Kitchen,UPI,214.0,43.0,35.0,5.0,Delivered
+ORD1421,01-Nov-2025,12:29,meena joshi,Bengaluru,Desserts,Cloud Kitchen,UPI ,293.0,44.0,35.0,4.0,Delivered
+ORD1438,2025-07-06,21:34,Sneha Reddy,hyderabad,Fast Food,Cloud Kitchen,UPI,297.0,30.0,35.0,4.0,Delivered
+ORD1514,06-Mar-2025,00:47,Priya Gupta,Bengaluru,north indian,Cloud Kitchen,UPI,381.0,76.0,33.0,4.0,Delivered
+ORD1298,2025-10-15,09:37,Arjun Singh,Chennai,Desserts,Restaurant,Debit Card,159.0,0.0,20.0,5.0,Delivered
+ORD1058,2025-12-19,17:24,Rahul Rao,Delhi,fast food,Cafe,UPI,261.0,39.0,23.0,5.0,Delivered
+ORD1149,15/12/2025,21:48,manoj sharma,chennai,Biryani,Restaurant,upi,464.0,70.0,35.0,5.0,Delivered
+ORD1180,22-Mar-2025,13:48,divya nair,Bengaluru,North Indian,Cloud Kitchen,upi,525.0,52.0,46.0,5.0,Delivered
+ORD1003,2025-11-09,21:05,Isha Iyer,Delhi,Chinese,Cloud Kitchen,UPI,393.0,20.0,38.0,4.0,Delivered
+ORD1302,2025-10-05,08:35,Arjun Iyer,Hyderabad,Chinese,Restaurant,UPI,395.0,40.0,36.0,,Delivered
+ORD1488,2025-07-07,12:13,Sneha Kumar, Pune,North Indian,Restaurant,UPI,532.0,53.0,25.0,5.0,Delivered
+ORD1532,2025-03-25,23:19,ananya patel,BENGALURU,Chinese,Restaurant,UPI,9999.0,46.0,31.0,,Refunded
+ORD1055,2025-10-05,09:59,Manoj Das,Hyderabad,Biryani,Cafe,UPI,282.0,28.0,23.0,4.0,Delivered
+ORD1373,06-Sep-2025,17:23,  Kavya Menon ,Mumbai,chinese,Cloud Kitchen,upi,385.0,,37.0,5.0,Delivered
+ORD1057,22-Dec-2025,21:17,Vikram Singh,MUMBAI,Biryani,Cafe,UPI,415.0,0.0,,,Cancelled
+ORD1184,2025-08-05,00:26,  Vikram Singh ,Hyderabad,desserts,Restaurant,UPI,183.0,37.0,13.0,5.0,Delivered
+ORD1071,2025-01-28,21:14,Divya Gupta,Hyderabad,North Indian,Cloud Kitchen,UPI,336.0,,56.0,4.0,Delivered
+ORD1515,2025-08-17,23:53,Arjun Gupta,Chennai,Fast Food,Restaurant,UPI,311.0,16.0,35.0,4.0,Refunded
+ORD1218,25-Dec-2025,20:18,Harish Gupta,Chennai,Chinese,Restaurant,DC,228.0,0.0,29.0,5.0,Delivered
+ORD1230,31-Jul-2025,17:29,Manoj Joshi,Chennai,Healthy,Cloud Kitchen,COD,443.0,89.0,43.0,3.0,Delivered
+ORD1359,2025-11-14,21:37,ARJUN REDDY,Mumbai,Fast Food,Cafe,UPI,302.0,0.0,47.0,4.0,Delivered
+ORD1390,2025-11-16,08:31,Suresh Gupta,Mumbai,Healthy,Restaurant,Cash on Delivery,589.0,59.0,38.0,5.0,Delivered
+ORD1591,2025-04-14,17:07,Pooja Sharma,mumbai,Healthy,Restaurant,Cash on Delivery,703.0,0.0,35.0,4.0,Delivered
+ORD1317,2025-03-09,13:22,VIKRAM PATEL,Mumbai,BIRYANI,Restaurant,Cash on Delivery,250.0,12.0,43.0,5.0,Delivered
+ORD1124,22-Sep-2025,12:42,ISHA KUMAR,hyderabad,South Indian,Restaurant,UPI,173.0,0.0,36.0,3.0,Delivered
+ORD1361,2025-06-08,09:35,manoj kumar,Mumbai,Fast Food,Cloud Kitchen,Credit Card,329.0,0.0,33.0,,Delivered
+ORD1600,2025-07-29,13:30,  Aditya Kumar ,Bengaluru,north indian,Restaurant,credit card,400.0,60.0,,5.0,Delivered
+ORD1355,2025-09-07,21:55,arjun sharma,Bengaluru,North Indian,Cafe,UPI,443.0,89.0,35.0,,Delivered
+ORD1267,2025-09-20,21:53,kavya rao, Pune,Desserts,Cloud Kitchen,UPI,200.0,0.0,34.0,4.0,Delivered
+ORD1054,19-May-2025,12:51,  Rahul Joshi ,Hyderabad,Chinese,Restaurant,Debit Card,261.0,0.0,34.0,5.0,Delivered
+ORD1254,2025-07-12,17:18,Arjun Gupta,Bangalore,Biryani,Restaurant,Cash on Delivery,275.0,41.0,26.0,4.0,Delivered
+ORD1595,2025-04-03,12:45,Sneha Gupta,Bengaluru,North Indian,Cafe,wallet,342.0,17.0,40.0,4.0,Delivered
+ORD1204,2025-01-15,13:25,Sneha Singh,Chennai,North Indian,Cloud Kitchen,UPI,610.0,92.0,45.0,4.0,Delivered
+ORD1316,2025-04-30,20:58,Harish Reddy,Mumbai,South Indian,Cafe,Credit Card,306.0,46.0,46.0,4.0,Delivered
+ORD1240,2025-07-12,21:28,Lakshmi Sharma,Mumbai,south indian,Restaurant,UPI,,70.0,53.0,3.0,Delivered
+ORD1565,2025-05-09,20:28,Aditya Reddy,Delhi,North Indian,Cloud Kitchen,Credit card,321.0,0.0,22.0,5.0,Delivered
+ORD1539,2025-08-19,19:32,Kavya Nair,DELHI,Biryani,Restaurant,UPI,474.0,95.0,40.0,,Delivered
+ORD1045,2025-08-13,16:19,Suresh Kumar,Hyderabad,Fast Food,Restaurant,UPI,293.0,59.0,15.0,5.0,Delivered
+ORD1473,24-Apr-2025,20:46,Priya Iyer,Hyderabad,Fast Food,Restaurant,UPI,,23.0,29.0,5.0,Refunded
+ORD1144,10-Jun-2025,20:24,Sneha Singh,Bengaluru,South Indian,Cloud Kitchen,UPI ,-177.0,,32.0,5.0,Delivered
+ORD1202,2025-05-16,13:50,Vikram Gupta,Bangalore,Chinese,Cloud Kitchen,UPI,211.0,11.0,45.0,5.0,Delivered
+ORD1140,02-Sep-2025,16:04,Ananya Rao,Mumbai,North Indian,Restaurant,Credit Card,522.0,0.0,40.0,5.0,Delivered
+ORD1545,2025-06-01,13:18,sneha kumar,Delhi,South Indian,Cloud Kitchen,Cash on Delivery,256.0,0.0,27.0,5.0,Delivered
+ORD1289,14/07/2025,12:20,Aditya Reddy,Chennai,Fast Food,Cloud Kitchen,UPI,236.0,35.0,43.0,5.0,Delivered
+ORD1449,2025-08-19,12:59,Aditya Nair,chennai,Chinese,Cloud Kitchen,UPI,370.0,56.0,33.0,5.0,Delivered
+ORD1208,2025-08-16,12:08,Ananya Gupta,bangalore,South Indian,Restaurant,UPI,262.0,52.0,36.0,3.0,Delivered
+ORD1478,2025-09-02,13:53,Harish Iyer,Hyderabad,Desserts,Restaurant,Credit Card,166.0,33.0,40.0,3.0,Delivered
+ORD1456,2025-08-07,09:07,  Harish Singh ,Mumbai,North Indian,Restaurant,Cash on Delivery,275.0,55.0,36.0,3.0,Delivered
+ORD1546,2025-12-05,20:22,Vikram Iyer,Hyderabad,South Indian,Cloud Kitchen,Cash on Delivery,218.0,33.0,34.0,5.0,Delivered
+ORD1181,2025-10-28,16:34,VIKRAM GUPTA,Delhi,Biryani,Cafe,upi,281.0,28.0,24.0,5.0,Delivered
+ORD1010,2025-05-03,12:35,Kavya Reddy,New Delhi,Desserts,Restaurant,Cash on Delivery,414.0,0.0,22.0,5.0,Delivered
+ORD1185,19-Oct-2025,19:07,kavya singh,Hyderabad,Healthy,Restaurant,Wallet,552.0,28.0,22.0,4.0,Refunded
+ORD1007,2025-05-15,21:30,  Harish Kumar ,Mumbai,Chinese,Cloud Kitchen,upi,145.0,22.0,39.0,4.0,Delivered
+ORD1256,2025-02-16,12:28,Karthik Menon,Mumbai,Biryani,Restaurant,UPI,311.0,16.0,42.0,3.0,Delivered
+ORD1205,2025-11-08,20:28,Ananya Patel,MUMBAI,North Indian,Restaurant,Debit Card,288.0,14.0,44.0,5.0,Delivered
+ORD1400,2025-09-05,13:33,Aditya Gupta,Delhi,North Indian,Restaurant,UPI,314.0,0.0,29.0,5.0,Delivered
+ORD1440,2025-06-05,17:19,Rohit Iyer, Pune,NORTH INDIAN,Cafe,Cash on Delivery,308.0,0.0,22.0,5.0,Delivered
+ORD1454,18/04/2025,12:36,  ananya patel ,Mumbai,North Indian,Restaurant,UPI,,25.0,44.0,5.0,Delivered
+ORD1231,2025-09-23,00:22,PRIYA REDDY,Bengaluru,Desserts,Cafe,UPI,144.0,0.0,35.0,4.0,Delivered
+ORD1175,2025-10-02,23:06,Vikram Patel,Hyderabad,Desserts,Cloud Kitchen,UPI,,37.0,,,Cancelled
+ORD1084,2025-12-26,20:57,Harish Reddy,Pune,North Indian,Cloud Kitchen,Debit Card,401.0,20.0,35.0,5.0,Delivered
+ORD1306,22/06/2025,12:07,  Deepa Joshi ,Hyderabad,Fast Food,Restaurant,Cash on Delivery,362.0,36.0,46.0,4.0,Delivered
+ORD1490,2025-12-29,19:47,ISHA RAO,HYDERABAD ,Biryani,Restaurant,UPI,221.0,0.0,40.0,5.0,Delivered
+ORD1379,2025-03-12,20:39,  Harish Joshi ,delhi,Biryani,Restaurant,Cash on Delivery,508.0,51.0,33.0,4.0,Delivered
+ORD1100,2025-04-17,20:18,Vikram Menon,Chennai,Fast Food,Restaurant,UPI,321.0,0.0,28.0,5.0,Delivered
+ORD1125,2025-12-21,08:44,Deepa Patel,Chennai,South Indian,Restaurant,UPI,436.0,22.0,46.0,,Delivered
+ORD1526,21/02/2025,20:21,Ananya Patel,Pune,Biryani,Cloud Kitchen,Wallet,523.0,105.0,,,Cancelled
+ORD1513,2025-07-23,21:09,  Karthik Iyer ,Pune,Biryani,Restaurant,Cash on Delivery,343.0,0.0,22.0,,Delivered
+ORD1088,2025-10-24,23:25,LAKSHMI RAO,Mumbai,Fast Food,Restaurant,debit card,422.0,63.0,38.0,,Delivered
+ORD1593,2025-05-26,12:49,rahul joshi,Pune,Desserts,Restaurant,Cash on Delivery,,13.0,29.0,5.0,Delivered
+ORD1539,2025-08-19,19:32,Kavya Nair,DELHI,Biryani,Restaurant,UPI,474.0,95.0,40.0,,Delivered
+ORD1272,08-Aug-2025,12:05,  Pooja Menon ,MUMBAI,Chinese,Cloud Kitchen,UPI,343.0,51.0,47.0,,Delivered
+ORD1072,08-Feb-2025,20:25,DEEPA SINGH,HYDERABAD ,Biryani,Restaurant,Credit Card,398.0,80.0,36.0,4.0,Delivered
+ORD1479,2025-02-25,13:35,Arjun Gupta,Chennai,Biryani,Cafe,Cash on Delivery,342.0,68.0,45.0,3.0,Delivered
+ORD1335,2025-03-28,17:59,Nikhil Menon,Chennai,fast food,Restaurant,Cash on Delivery,280.0,56.0,27.0,4.0,Delivered
+ORD1131,2025-08-23,08:03,Nikhil Sharma,Bombay,North Indian,Cafe,UPI,657.0,0.0,,,Cancelled
+ORD1075,2025-12-28,20:58,Suresh Reddy,Mumbai,North Indian,Restaurant,UPI,465.0,0.0,44.0,4.0,Delivered
+ORD1137,2025-04-04,13:46,Ananya Patel,Delhi,Fast Food,Restaurant,UPI,236.0,24.0,44.0,4.0,Delivered
+ORD1567,2025-02-07,23:56,Priya Das,Hyderabad,Chinese,Restaurant,UPI,409.0,0.0,32.0,4.0,Delivered
+ORD1530,2025-07-29,20:46,karthik nair,Mumbai,South Indian,Restaurant,Cash on Delivery,259.0,39.0,49.0,4.0,Delivered
+ORD1017,2025-01-30,13:35,Aditya Patel,PUNE,South Indian,Cloud Kitchen,UPI,-342.0,34.0,38.0,5.0,Delivered
+ORD1114,13/08/2025,19:30,  Manoj Sharma ,Mumbai,Fast Food,Restaurant,UPI,202.0,10.0,48.0,4.0,Delivered
+ORD1008,08-Dec-2025,20:41,Manoj Das,Bengaluru,Desserts,Cloud Kitchen,Debit Card,272.0,54.0,38.0,3.0,Delivered
+ORD1174,2025-01-16,20:20,Rohit Joshi,Hyd,Fast Food,Cloud Kitchen,UPI,240.0,48.0,51.0,4.0,Delivered
+ORD1489,2025-10-17,12:16,Suresh Reddy,Bengaluru,North Indian,Cloud Kitchen,UPI ,713.0,0.0,44.0,3.0,Delivered
+ORD1551,2025-09-10,08:22,meena singh,Chennai,North Indian,Cloud Kitchen,Debit Card,328.0,33.0,24.0,5.0,Delivered
+ORD1292,2025-08-16,01:12,Vikram Patel,Bengaluru,South Indian,Cloud Kitchen,Cash on Delivery,244.0,24.0,26.0,5.0,Delivered
+ORD1350,2025-08-21,13:03,Suresh Rao,Mumbai,chinese,Cloud Kitchen,Cash on Delivery,353.0,0.0,45.0,,Delivered
+ORD1260,02-Sep-2025,08:24,Kavya Kumar,Pune,South Indian,Cafe,UPI ,552.0,110.0,,5.0,Delivered
+ORD1068,2025-07-14,19:46,HARISH KUMAR,DELHI,Fast Food,Restaurant,UPI,236.0,12.0,35.0,5.0,Delivered
+ORD1535,2025-06-28,13:20,Divya Menon,Pune,Chinese,Cloud Kitchen,COD,271.0,54.0,40.0,5.0,Delivered
+ORD1061,2025-06-15,19:38,Rahul Joshi,Mumbai,North Indian,Cloud Kitchen,Cash on Delivery,378.0,38.0,30.0,5.0,Delivered
+ORD1569,2025-12-24,20:45,Divya Sharma,Mumbai,North Indian,Restaurant,upi,389.0,39.0,37.0,4.0,Delivered
+ORD1472,03-Oct-2025,13:43,Nikhil Reddy,bangalore,North Indian,Restaurant,cash on delivery,517.0,103.0,37.0,4.0,Delivered
+ORD1275,2025-12-12,16:47,Meena Kumar,Pune,South Indian,Cloud Kitchen,Cash on Delivery,132.0,13.0,32.0,,Delivered
+ORD1321,,20:39,Vikram Singh,Bombay,Chinese,Cafe,upi,568.0,57.0,37.0,4.0,Delivered
+ORD1441,23/12/2025,17:08,ISHA IYER,Hyderabad,Chinese,Restaurant,Cash on Delivery,295.0,0.0,29.0,5.0,Delivered
+ORD1432,2025-07-04,12:12,Manoj Gupta,Bengaluru,North Indian,Cafe,wallet,266.0,53.0,43.0,3.0,Delivered
+ORD1376,20/06/2025,19:50,lakshmi kumar,Bengaluru,south indian,Restaurant,UPI ,275.0,55.0,47.0,4.0,Delivered
+ORD1557,2025-10-28,20:09,  Arjun Reddy ,Mumbai,Fast Food,Cloud Kitchen,UPI,242.0,,46.0,4.0,Delivered
+ORD1596,2025-06-05,08:19,  aditya sharma ,Delhi,North Indian,Cafe,Credit Card,435.0,0.0,28.0,5.0,Delivered
+ORD1481,2025-12-01,17:10,Lakshmi Singh,Bengaluru,North Indian,Cloud Kitchen,Credit Card,314.0,0.0,,4.0,Delivered
+ORD1200,2025-01-08,20:09,  Arjun Joshi ,Chennai,Fast Food,Cloud Kitchen,UPI,294.0,0.0,41.0,,Delivered
+ORD1485,2025-10-17,13:52,Nikhil Reddy,Chennai,Desserts,Cloud Kitchen,Credit Card,323.0,16.0,34.0,4.0,Delivered
+ORD1430,2025-11-28,09:41,  Aditya Joshi ,Pune,Chinese,Restaurant,UPI,457.0,23.0,37.0,,Delivered
+ORD1220,2025-10-14,12:00,Suresh Rao,Bangalore,North Indian,Restaurant,Upi,579.0,0.0,36.0,,Delivered
+ORD1394,2025-11-19,09:18,manoj singh,pune,South Indian,Restaurant,UPI,221.0,11.0,26.0,5.0,Delivered
+ORD1122,31/01/2025,16:14,KAVYA KUMAR,Bengaluru,Biryani,Cafe,Cash on Delivery,380.0,,32.0,4.0,Delivered
+ORD1527,2025-03-20,13:11,Nikhil Das,Hyderabad,Biryani,Cloud Kitchen,Upi,405.0,40.0,39.0,4.0,Delivered
+ORD1388,08-Feb-2025,09:47,Rohit Das,Hyderabad,North Indian,Restaurant,UPI,401.0,60.0,26.0,,Delivered
+ORD1312,2025-11-20,13:41,Deepa Singh,Mumbai,Biryani,Restaurant,Credit Card,515.0,52.0,28.0,5.0,Delivered
+ORD1301,2025-03-23,13:43,Lakshmi Menon,Chennai,Chinese,Restaurant,UPI,501.0,50.0,25.0,5.0,Delivered
+ORD1021,2025-03-31,21:24,Divya Reddy,Delhi,Fast Food,Cloud Kitchen,Debit Card,262.0,39.0,,,Cancelled
+ORD1531,01-Jan-2025,12:33,  Rahul Iyer ,BENGALURU,Biryani,Restaurant,UPI ,256.0,51.0,38.0,4.0,Delivered
+ORD1211,2025-10-05,13:00,Divya Nair,Bengaluru,North Indian,Restaurant,UPI,490.0,24.0,48.0,3.0,Delivered
+ORD1487,20-Aug-2025,12:42,Isha Gupta,Bengaluru,Healthy,Cloud Kitchen,Cash on Delivery,,37.0,,5.0,Delivered
+ORD1443,2025-01-13,21:21,Priya Reddy,Delhi,Biryani,Restaurant,Debit Card,282.0,0.0,23.0,5.0,Delivered
+ORD1398,2025-03-08,16:31,Lakshmi Singh,Hyderabad,Desserts,Restaurant,UPI,193.0,29.0,35.0,4.0,Delivered
+ORD1310,2025-09-26,21:35,  Sneha Sharma ,Bengaluru,North Indian,Restaurant,Credit Card,,14.0,46.0,3.0,Delivered
+ORD1561,2025-08-08,16:22,Karthik Reddy,Chennai,Chinese,Restaurant,COD,497.0,75.0,35.0,4.0,Delivered
+ORD1118,2025-07-27,13:25,Deepa Das,Delhi,Biryani,Restaurant,UPI,420.0,84.0,35.0,4.0,Delivered
+ORD1446,25-May-2025,20:09,Pooja Das,Bengaluru,South Indian,Restaurant,upi,243.0,12.0,31.0,,Delivered
+ORD1277,19/08/2025,16:15,lakshmi nair,Mumbai,Fast Food,Cafe,Credit Card,473.0,0.0,38.0,3.0,Delivered
+ORD1283,2025-07-05,21:11,MANOJ DAS,Delhi,North Indian,Restaurant,Cash on Delivery,281.0,0.0,42.0,,Delivered
+ORD1370,2025-11-04,12:22,Kavya Nair,DELHI,Chinese,Restaurant,cash on delivery,272.0,54.0,45.0,4.0,Delivered
+ORD1484,2025-12-27,12:46,Kavya Das,Hyderabad,Desserts,Restaurant,UPI,202.0,0.0,30.0,4.0,Delivered
+ORD1203,2025-10-02,08:40,Suresh Rao,Hyderabad,Biryani,Restaurant,Upi,501.0,25.0,42.0,4.0,Refunded
+ORD1106,2025-04-25,23:57,Harish Patel,Bengaluru,Chinese,Restaurant,UPI,345.0,69.0,27.0,,Delivered
+ORD1500,2025-05-02,09:57,Isha Gupta,PUNE,Biryani,Restaurant,Credit Card,469.0,70.0,29.0,5.0,Delivered
+ORD1201,2025-06-24,20:08,Arjun Nair,Chennai,Fast Food,Cloud Kitchen,UPI,297.0,30.0,31.0,4.0,Delivered
+ORD1273,2025-07-15,17:56,Meena Rao, Pune,NORTH INDIAN,Cloud Kitchen,COD,490.0,74.0,31.0,4.0,Delivered
+ORD1503,28/12/2025,23:53,Deepa Menon,Bangalore,Desserts,Cloud Kitchen,credit card,368.0,74.0,34.0,5.0,Delivered
+ORD1340,2025-04-12,12:47,Aditya Reddy,Delhi,Biryani,Cafe,UPI,515.0,,33.0,5.0,Delivered
+ORD1087,2025-05-24,13:18,Vikram Joshi,Hyderabad,South Indian,Cloud Kitchen,UPI,314.0,0.0,34.0,4.0,Delivered
+ORD1549,2025-10-01,21:41,  Karthik Sharma ,Delhi,North Indian,Restaurant,Credit Card,503.0,0.0,26.0,4.0,Delivered
+ORD1401,2025-06-17,19:56,Aditya Kumar,MUMBAI,North Indian,Restaurant,wallet,254.0,0.0,39.0,9.0,Delivered
+ORD1455,27-Dec-2025,12:16,Suresh Menon,Pune,North Indian,Cloud Kitchen,UPI,505.0,50.0,32.0,5.0,Delivered
+ORD1163,2025-03-23,13:09,Kavya Singh,hyderabad,North Indian,Restaurant,UPI,474.0,0.0,28.0,,Delivered
+ORD1358,2025-06-12,20:15,Karthik Reddy,delhi,Healthy,Restaurant,UPI,308.0,,40.0,4.0,Delivered
+ORD1136,2025-07-24,20:21,Lakshmi Sharma,Hyderabad,North Indian,Restaurant,Wallet,655.0,0.0,32.0,4.0,Delivered
+ORD1537,2025-12-06,13:48,Kavya Rao,Chennai,South Indian,Restaurant,UPI,249.0,50.0,,,Cancelled
+ORD1116,2025-11-02,20:39,ADITYA NAIR,Chennai,Chinese,Cloud Kitchen,DC,,33.0,51.0,3.0,Delivered
+ORD1470,19-Aug-2025,21:23,Kavya Joshi,bangalore,North Indian,Restaurant,UPI,268.0,0.0,50.0,4.0,Delivered
+ORD1224,2025-03-05,16:19,  Ananya Iyer ,Bombay,Biryani,Restaurant,Upi,388.0,19.0,28.0,5.0,Delivered
+ORD1448,2025-06-14,08:02,Karthik Kumar,Bengaluru,South Indian,Restaurant,UPI,440.0,88.0,17.0,5.0,Delivered
+ORD1035,2025-11-02,01:45,Manoj Iyer,Bengaluru,Desserts,Cloud Kitchen,COD,289.0,0.0,31.0,4.0,Delivered
+ORD1370,2025-11-04,12:22,Kavya Nair,DELHI,Chinese,Restaurant,cash on delivery,272.0,54.0,45.0,4.0,Delivered
+ORD1271,2025-09-08,12:19,Ananya Patel,Hyderabad,Healthy,Restaurant,WALLET,302.0,0.0,37.0,5.0,Delivered
+ORD1022,2025-08-19,17:52,Sneha Reddy,Mumbai,Biryani,Cloud Kitchen,UPI,459.0,0.0,,,Cancelled
+ORD1015,2025-12-24,20:08,Ananya Das,delhi,South Indian,Cloud Kitchen,Credit Card,346.0,0.0,28.0,5.0,Delivered
+ORD1347,15/06/2025,08:17,Deepa Reddy,Delhi,Fast Food,Restaurant,Credit Card,230.0,12.0,34.0,4.0,Delivered
+ORD1408,2025-09-11,23:03,Aditya Rao,Mumbai,South Indian,Restaurant,Cash on Delivery,259.0,26.0,32.0,4.0,Delivered
+ORD1311,2025-03-19,09:53,POOJA SINGH,mumbai,Chinese,Cloud Kitchen,COD,25000.0,0.0,40.0,5.0,Delivered
+ORD1099,2025-02-25,09:57,Deepa Rao,Mumbai,Chinese,Cloud Kitchen,Wallet,253.0,51.0,32.0,4.0,Delivered
+ORD1558,2025-03-02,17:33,Rohit Nair,BENGALURU,Fast Food,Restaurant,UPI,305.0,15.0,54.0,3.0,Delivered
+ORD1326,2025-01-03,17:21,Karthik Das,Chennai,Biryani,Restaurant,Cash on Delivery,343.0,0.0,31.0,4.0,Delivered
+ORD1095,2025-12-28,12:33,Pooja Rao,hyderabad,Chinese,Restaurant,WALLET,438.0,66.0,33.0,,Delivered
+ORD1032,2025-10-26,21:56,Nikhil Nair,Mumbai,Chinese,Cloud Kitchen,UPI ,324.0,65.0,41.0,5.0,Delivered
+ORD1278,2025-01-19,16:00,Deepa Rao,Hyderabad,North Indian,Cloud Kitchen,Upi,436.0,65.0,35.0,5.0,Delivered
+ORD1176,08-Jun-2025,01:42,Meena Sharma,Bengaluru,Biryani,Cloud Kitchen,Credit card,356.0,0.0,34.0,4.0,Delivered
+ORD1107,2025-09-15,20:19,Suresh Iyer,Mumbai,Biryani,Cloud Kitchen,UPI,408.0,0.0,40.0,4.0,Delivered
+ORD1252,2025-12-14,21:14,Suresh Gupta,Delhi,Fast Food,Cloud Kitchen,UPI,262.0,26.0,26.0,5.0,Delivered
+ORD1586,2025-07-28,21:11,Priya Reddy,PUNE,Fast Food,Cafe,COD,345.0,69.0,40.0,,Delivered
+ORD1341,28-Jun-2025,20:48,  Arjun Menon ,Bengaluru,North Indian,Restaurant,Credit Card,791.0,0.0,45.0,,Delivered
+ORD1387,02-Sep-2025,16:20,Isha Joshi,Hyderabad,Chinese,Restaurant,upi,300.0,0.0,31.0,5.0,Delivered
+ORD1598,2025-02-02,13:20,Priya Joshi,Mumbai,FAST FOOD,Restaurant,Credit Card,340.0,0.0,46.0,3.0,Delivered
+ORD1305,04-Jul-2025,13:18,Priya Rao,Bengaluru,desserts,Restaurant,UPI,,14.0,39.0,4.0,Delivered
+ORD1416,2025-05-03,23:43,Manoj Rao,Chennai ,North Indian,Cloud Kitchen,UPI,586.0,59.0,40.0,4.0,Delivered
+ORD1523,04-Mar-2025,20:50,Pooja Joshi,DELHI,North Indian,Restaurant,UPI,641.0,0.0,44.0,4.0,Delivered
+ORD1492,11-Apr-2025,13:27,Nikhil Menon,Bengaluru,Healthy,Restaurant,Cash on Delivery,420.0,0.0,42.0,4.0,Delivered
+ORD1403,2025-10-05,23:41,Rohit Sharma,Mumbai,Fast Food,Cloud Kitchen,UPI,449.0,22.0,48.0,4.0,Delivered
+ORD1482,11-Nov-2025,19:12,Harish Gupta,Hyderabad,Biryani,Restaurant,UPI,434.0,22.0,35.0,5.0,Delivered
+ORD1554,2025-11-15,12:08,Meena Gupta,Bombay,North Indian,Cloud Kitchen,cash on delivery,407.0,20.0,38.0,3.0,Delivered
+ORD1392,30/05/2025,13:58,Divya Gupta,Bengaluru,North Indian,Cafe,Credit Card,304.0,46.0,44.0,4.0,Delivered
+ORD1486,16-Aug-2025,20:48,DIVYA JOSHI,Delhi,Biryani,Cloud Kitchen,upi,25000.0,37.0,33.0,,Delivered
+ORD1294,25-Apr-2025,21:54,priya patel,Delhi,North Indian,Cloud Kitchen,Cash on Delivery,545.0,0.0,29.0,5.0,Delivered
+ORD1420,2025-11-22,20:55,rohit menon,chennai,Desserts,Cloud Kitchen,upi,218.0,22.0,37.0,5.0,Delivered
+ORD1102,13-Apr-2025,12:38,Suresh Das,delhi,Biryani,Restaurant,Upi,252.0,0.0,44.0,4.0,Delivered
+ORD1389,08-Jan-2025,13:42,  Ananya Rao ,Mumbai,South Indian,Cloud Kitchen,upi,223.0,33.0,39.0,5.0,Delivered
+ORD1056,2025-10-18,13:52,Lakshmi Joshi,Chennai,Chinese,Cafe,upi,521.0,104.0,28.0,5.0,Delivered
+ORD1069,2025-11-13,19:52,Harish Joshi,bangalore,Chinese,Cloud Kitchen,Debit Card,264.0,26.0,51.0,,Delivered
+ORD1042,2025-05-09,17:38,Divya Joshi,bangalore,Chinese,Cloud Kitchen,UPI,254.0,0.0,33.0,,Delivered
+ORD1086,2025-12-16,20:36,  Suresh Das ,Delhi,Chinese,Cloud Kitchen,Cash on Delivery,195.0,39.0,34.0,5.0,Delivered
+ORD1437,16-May-2025,17:04,Rahul Iyer,Chennai,Fast Food,Restaurant,Cash on Delivery,258.0,26.0,37.0,,Delivered
+ORD1135,2025-05-16,08:57,Sneha Joshi,Hyderabad,Biryani,Cloud Kitchen,Credit Card,405.0,61.0,24.0,5.0,Delivered
+ORD1197,2025-11-15,20:44,Karthik Joshi,Mumbai,Fast Food,Restaurant,upi,326.0,65.0,53.0,4.0,Delivered
+ORD1477,05-Aug-2025,16:03,Harish Rao,Delhi,Fast Food,Restaurant,credit card,302.0,0.0,30.0,4.0,Delivered
+ORD1217,2025-02-01,17:08,Suresh Kumar,Hyderabad,North Indian,Cloud Kitchen,Cash on Delivery,574.0,86.0,24.0,5.0,Delivered
+ORD1285,2025-02-06,12:00,Divya Patel,CHENNAI,Biryani,Restaurant,WALLET,482.0,0.0,41.0,4.0,Delivered
+ORD1148,20-Dec-2025,13:22,meena nair,Delhi,Desserts,Cloud Kitchen,UPI,192.0,29.0,41.0,4.0,Delivered
+ORD1112,04-Jul-2025,13:04,manoj kumar,New Delhi,Biryani,Cloud Kitchen,CC,332.0,0.0,27.0,5.0,Delivered
+ORD1511,28/02/2025,16:59,  Aditya Nair ,Hyderabad,Biryani,Restaurant,Credit card,466.0,23.0,46.0,4.0,Delivered
+ORD1543,15/11/2025,13:49,  priya menon ,Chennai,Biryani,Cafe,DC,615.0,62.0,39.0,4.0,Delivered
+ORD1491,2025-12-06,12:57,ISHA JOSHI,Chennai ,South Indian,Cafe,Cash on Delivery,301.0,0.0,27.0,4.0,Delivered
+ORD1520,2025-07-15,12:15,Harish Reddy,Delhi,South Indian,Restaurant,Cash on Delivery,,68.0,27.0,5.0,Delivered
+ORD1425,2025-11-27,19:35,Manoj Singh,Delhi,Chinese,Cafe,Upi,331.0,0.0,37.0,,Delivered
+ORD1268,2025-01-07,16:13,Rohit Das,Bengaluru,Fast Food,Restaurant,UPI,236.0,12.0,41.0,3.0,Delivered
+ORD1439,2025-11-29,12:55,Harish Gupta,Delhi,CHINESE,Cloud Kitchen,Credit card,233.0,47.0,41.0,3.0,Delivered
+ORD1013,2025-03-15,21:20,Isha Kumar,pune,Fast Food,Restaurant,Wallet,198.0,30.0,23.0,5.0,Delivered
+ORD1063,2025-06-10,19:25,Suresh Reddy,Delhi,North Indian,Restaurant,Wallet,391.0,59.0,42.0,4.0,Delivered
+ORD1171,2025-04-05,01:25,  Meena Sharma ,Chennai,NORTH INDIAN,Restaurant,UPI,400.0,0.0,37.0,,Delivered
+ORD1182,2025-08-20,13:40,  Rahul Singh ,New Delhi,Fast Food,Restaurant,Cash on Delivery,237.0,24.0,29.0,,Delivered
+ORD1193,2025-02-10,12:25,  Sneha Sharma ,Pune,Healthy,Restaurant,UPI ,375.0,0.0,34.0,4.0,Delivered
+ORD1190,2025-12-19,16:19,Kavya Iyer,bangalore,Biryani,Restaurant,UPI,289.0,58.0,53.0,,Delivered
+ORD1113,2025-10-11,12:24,Vikram Singh,Pune,North Indian,Restaurant,wallet,469.0,70.0,35.0,4.0,Delivered
+ORD1103,2025-11-25,12:08,karthik joshi,Bengaluru,Biryani,Cafe,Credit card,439.0,44.0,39.0,3.0,Delivered
+ORD1078,2025-11-18,17:25,Vikram Menon,Mumbai,Fast Food,Restaurant,Cash on Delivery,216.0,0.0,32.0,,Delivered
+ORD1191,2025-04-26,12:32,Vikram Kumar, Pune,Fast Food,Restaurant,UPI,221.0,44.0,,,Cancelled
+ORD1345,17-Aug-2025,19:19,Divya Gupta,Pune,Healthy,Restaurant,Upi,487.0,24.0,35.0,4.0,Delivered
+ORD1053,17-May-2025,20:19,Lakshmi Menon,chennai,Desserts,Restaurant,Cash on Delivery,193.0,19.0,35.0,4.0,Delivered
+ORD1029,17-Dec-2025,21:33,Lakshmi Singh,Bengaluru,Biryani,Restaurant,Debit Card,355.0,36.0,49.0,4.0,Delivered
+ORD1066,2025-08-11,21:53,Suresh Rao,Bengaluru,Healthy,Restaurant,upi,283.0,28.0,39.0,,Delivered
+ORD1517,2025-01-29,19:44,Deepa Reddy,PUNE,Biryani,Cloud Kitchen,Wallet,398.0,0.0,49.0,4.0,Delivered
+ORD1291,2025-12-29,12:53,Deepa Kumar,MUMBAI,Chinese,Cloud Kitchen,debit card,348.0,70.0,43.0,,Delivered
+ORD1522,2025-08-04,21:42,Lakshmi Patel,Bengaluru,South Indian,Cloud Kitchen,UPI,,37.0,23.0,5.0,Delivered
+ORD1083,18-Sep-2025,19:39,Divya Menon,Pune,Biryani,Cloud Kitchen,credit card,689.0,69.0,33.0,4.0,Delivered
+ORD1309,2025-06-26,01:28,  Pooja Joshi ,Pune,South Indian,Cloud Kitchen,UPI,354.0,18.0,999.0,,Delivered
+ORD1410,2025-01-29,00:51,Nikhil Sharma,Bengaluru,South Indian,Restaurant,UPI,187.0,37.0,38.0,,Delivered
+ORD1160,2025-07-02,13:07,Meena Reddy,Bengaluru,Chinese,Restaurant,CC,383.0,38.0,20.0,5.0,Delivered
+ORD1367,2025-12-26,21:13,Sneha Reddy,Bengaluru,Fast Food,Cafe,Cash on Delivery,494.0,,39.0,4.0,Delivered
+ORD1245,2025-01-20,17:21,Harish Rao,Mumbai,Biryani,Restaurant,Cash on Delivery,373.0,56.0,45.0,4.0,Delivered
+ORD1560,2025-08-20,16:23,Vikram Reddy,Pune,Biryani,Restaurant,Cash on Delivery,385.0,19.0,28.0,4.0,Delivered
+ORD1374,2025-07-17,00:41,priya kumar,Pune,Biryani,Cloud Kitchen,COD,243.0,0.0,38.0,4.0,Delivered
+ORD1127,2025-08-09,20:06,Rohit Gupta,Hyderabad,Desserts,Cafe,UPI,356.0,53.0,38.0,5.0,Delivered
+ORD1233,2025-06-18,21:12,  nikhil menon ,HYDERABAD ,Desserts,Restaurant,Credit Card,193.0,0.0,44.0,3.0,Delivered
+ORD1212,2025-12-08,16:37,Sneha Nair,delhi,chinese,Cloud Kitchen,UPI,311.0,62.0,29.0,4.0,Delivered
+ORD1323,2025-09-11,13:52,Priya Singh,Delhi,South Indian,Cloud Kitchen,Cash on Delivery,312.0,31.0,45.0,,Delivered
+ORD1464,2025-12-08,21:53,RAHUL PATEL,Bengaluru,North Indian,Restaurant,Upi,464.0,0.0,33.0,5.0,Delivered
+ORD1293,2025-09-28,12:24,  Lakshmi Reddy ,Pune,North Indian,Restaurant,UPI,332.0,50.0,36.0,5.0,Delivered
+ORD1213,2025-02-26,16:08,Meena Das,Mumbai,Fast Food,Restaurant,UPI,425.0,,46.0,3.0,Delivered
+ORD1418,2025-07-11,19:11,Nikhil Patel,bangalore,Biryani,Restaurant,Upi,506.0,0.0,41.0,,Delivered
+ORD1104,2025-11-03,17:40,MANOJ KUMAR,CHENNAI,SOUTH INDIAN,Restaurant,UPI,319.0,32.0,25.0,5.0,Delivered
+ORD1483,2025-10-05,13:40,Lakshmi Nair,Pune,North Indian,Restaurant,Credit Card,327.0,0.0,,,Cancelled
+ORD1348,2025-12-19,21:24,Rohit Gupta,Hyd,south indian,Restaurant,UPI,184.0,9.0,39.0,5.0,Delivered
+ORD1334,29/12/2025,20:54,SURESH IYER,Bangalore,North Indian,Restaurant,UPI,796.0,0.0,35.0,5.0,Delivered
+ORD1474,15-Sep-2025,19:35,Aditya Sharma,Delhi,Fast Food,Restaurant,Credit Card,250.0,0.0,27.0,4.0,Delivered
+ORD1009,2025-09-23,17:58,Ananya Kumar,Hyderabad,North Indian,Cloud Kitchen,Debit Card,490.0,74.0,35.0,4.0,Delivered
+ORD1259,2025-04-05,19:51,Pooja Menon,MUMBAI,North Indian,Cloud Kitchen,UPI ,355.0,18.0,40.0,4.0,Delivered
+ORD1229,2025-03-24,21:56,SURESH DAS,Hyderabad,Biryani,Restaurant,CC,404.0,61.0,32.0,5.0,Delivered
+ORD1238,2025-10-17,09:13,Nikhil Singh,Delhi,North Indian,Cloud Kitchen,Credit Card,566.0,113.0,19.0,5.0,Delivered
+ORD1575,2025-12-23,13:28,Suresh Singh,Bengaluru,Biryani,Restaurant,UPI,382.0,57.0,46.0,4.0,Delivered
+ORD1183,2025-08-03,23:26,ananya das,Pune,Chinese,Restaurant,UPI,347.0,0.0,,,Cancelled
+ORD1516,2025-07-23,16:57,Ananya Menon,Bengaluru,Healthy,Restaurant,Wallet,426.0,,,,Cancelled
+ORD1198,19/02/2025,19:43,  Pooja Joshi ,mumbai,Biryani,Restaurant,Credit Card,313.0,16.0,,,Cancelled
+ORD1282,2025-03-31,19:32,Harish Iyer,Chennai ,Biryani,Cafe,Credit Card,380.0,76.0,31.0,5.0,Delivered
+ORD1426,2025-06-19,20:27,Kavya Das,Chennai,North Indian,Cafe,UPI,411.0,0.0,41.0,4.0,Delivered
+ORD1599,08-Jul-2025,17:36,Pooja Menon,Hyderabad,North Indian,Cafe,UPI,546.0,82.0,31.0,5.0,Delivered
+ORD1556,29-Apr-2025,09:00,  Vikram Sharma ,Delhi,Chinese,Cloud Kitchen,UPI,523.0,0.0,34.0,,Delivered
+ORD1108,2025-09-12,19:54,Divya Reddy,Pune,Biryani,Restaurant,Credit Card,299.0,60.0,,,Cancelled
+ORD1051,08-Apr-2025,13:41,Ananya Das,Pune,North Indian,Cloud Kitchen,Credit Card,523.0,0.0,0.0,5.0,Delivered
+ORD1188,2025-12-30,16:57,Isha Nair,Bengaluru,Chinese,Cloud Kitchen,Credit card,319.0,48.0,,4.0,Delivered
+ORD1342,2025-03-03,20:00,DEEPA GUPTA,Bengaluru,north indian,Restaurant,Cash on Delivery,548.0,110.0,26.0,,Delivered
+ORD1165,2025-05-19,23:49,Isha Sharma,MUMBAI,Chinese,Restaurant,DC,297.0,15.0,39.0,4.0,Delivered
+ORD1023,2025-08-23,17:57,VIKRAM IYER,Chennai,Biryani,Cloud Kitchen,Credit Card,648.0,0.0,36.0,4.0,Delivered
+ORD1319,11-Nov-2025,21:27,Sneha Reddy,Chennai,Biryani,Restaurant,Debit Card,542.0,27.0,29.0,4.0,Delivered
+ORD1235,2025-03-20,23:53,Lakshmi Patel,Bengaluru,Chinese,Restaurant,DC,473.0,95.0,35.0,5.0,Delivered
+ORD1169,2025-04-28,12:36,  Isha Nair ,bangalore,Fast Food,Cafe,UPI,176.0,18.0,38.0,4.0,Delivered
+ORD1396,2025-04-30,13:46,Kavya Sharma,Delhi,Desserts,Restaurant,Wallet,199.0,0.0,40.0,,Delivered
+ORD1356,2025-11-07,21:21,Deepa Iyer,Chennai ,Chinese,Cloud Kitchen,wallet,316.0,32.0,33.0,5.0,Delivered
+ORD1070,Not Available,21:04,Vikram Sharma,Mumbai,South Indian,Restaurant,Debit Card,286.0,0.0,37.0,4.0,Delivered
+ORD1187,2025-09-28,19:20,Divya Das,Hyderabad,Chinese,Cloud Kitchen,Wallet,556.0,0.0,20.0,5.0,Delivered
+ORD1538,2025-08-31,13:49,Ananya Singh,Bengaluru,Healthy,Cloud Kitchen,Upi,670.0,0.0,36.0,,Delivered
+ORD1512,2025-05-17,12:15,Nikhil Reddy,MUMBAI,Biryani,Cafe,UPI,566.0,0.0,37.0,5.0,Delivered
+ORD1475,2025-10-23,08:35,Manoj Menon,HYDERABAD ,Biryani,Restaurant,Credit Card,348.0,0.0,28.0,5.0,Delivered
+ORD1395,2025-10-29,21:09,Kavya Reddy,Chennai,Chinese,Restaurant,Upi,301.0,0.0,26.0,5.0,Delivered
+ORD1365,30-Dec-2025,21:19,Divya Menon,mumbai,North Indian,Cloud Kitchen,Cash on Delivery,341.0,0.0,39.0,4.0,Delivered
+ORD1206,30-Dec-2025,08:51,Ananya Sharma,Pune,Chinese,Restaurant,UPI,286.0,0.0,37.0,4.0,Delivered
+ORD1352,2025-11-11,17:28,Rahul Singh,Bengaluru,Biryani,Cafe,Cash on Delivery,366.0,73.0,28.0,4.0,Delivered
+ORD1152,2025-11-03,21:42,Aditya Menon,Hyderabad,Chinese,Cloud Kitchen,UPI,278.0,14.0,32.0,4.0,Delivered
+ORD1525,2025-06-03,16:43,  Isha Das ,Delhi,Desserts,Restaurant,Upi,118.0,6.0,33.0,5.0,Delivered
+ORD1450,25-Oct-2025,19:10,Vikram Menon,Bangalore,Healthy,Restaurant,upi,333.0,50.0,,4.0,Delivered
+ORD1030,2025-12-11,08:15,SNEHA IYER,Bengaluru,Biryani,Restaurant,UPI ,307.0,0.0,0.0,3.0,Delivered
+ORD1493,2025-03-23,19:19,Meena Joshi,MUMBAI,South Indian,Cloud Kitchen,Wallet,263.0,0.0,57.0,3.0,Delivered
+ORD1239,18-Sep-2025,21:04,Harish Joshi,CHENNAI,South Indian,Restaurant,WALLET,219.0,0.0,27.0,5.0,Refunded
+ORD1162,15-Sep-2025,20:06,  Ananya Nair ,Mumbai,Biryani,Restaurant,Cash on Delivery,356.0,0.0,31.0,5.0,Delivered
+ORD1590,2025-07-01,20:30,  Vikram Das ,Hyderabad,FAST FOOD,Restaurant,Upi,225.0,0.0,41.0,5.0,Delivered
+ORD1414,2025-11-07,13:58,Pooja Patel,PUNE,Biryani,Cloud Kitchen,UPI,399.0,60.0,33.0,5.0,Delivered
+ORD1399,2025-09-27,08:17,Ananya Singh,BENGALURU,North Indian,Cloud Kitchen,UPI ,556.0,0.0,44.0,4.0,Delivered
+ORD1324,2025-09-29,17:38,rohit gupta,Bengaluru,Fast Food,Cloud Kitchen,Debit Card,305.0,46.0,28.0,5.0,Delivered
+ORD1117,2025-07-07,17:25,Harish Kumar,Hyderabad,north indian,Cloud Kitchen,cash on delivery,622.0,124.0,38.0,4.0,Delivered
+ORD1343,2025-06-04,21:57,Nikhil Gupta,Delhi,North Indian,Cloud Kitchen,Credit Card,406.0,0.0,50.0,4.0,Delivered
+ORD1258,27-Jun-2025,08:16,Rahul Das,Chennai,Biryani,Cloud Kitchen,DC,416.0,42.0,24.0,4.0,Delivered
+ORD1412,12-Sep-2025,12:20,Sneha Gupta,Delhi,North Indian,Restaurant,COD,513.0,0.0,42.0,3.0,Delivered
+ORD1463,23/10/2025,19:28,Lakshmi Singh,Mumbai,BIRYANI,Restaurant,UPI,369.0,0.0,60.0,3.0,Delivered
+ORD1529,25/12/2025,21:54,  Arjun Patel ,Mumbai,north indian,Restaurant,UPI ,618.0,93.0,47.0,3.0,Delivered
+ORD1380,2025-04-19,12:57,Sneha Kumar,Mumbai,North Indian,Cafe,wallet,568.0,0.0,47.0,5.0,Delivered
+ORD1047,2025-04-19,17:59,DEEPA PATEL,Bangalore,Desserts,Restaurant,cash on delivery,245.0,12.0,,5.0,Delivered
+ORD1004,2025-11-13,20:14,Pooja Reddy,Mumbai,Fast Food,Cloud Kitchen,cod,294.0,29.0,43.0,4.0,Delivered
+ORD1369,2025-08-02,13:24,  Arjun Kumar ,Delhi,Desserts,Restaurant,credit card,274.0,0.0,41.0,4.0,Delivered
+ORD1397,2025-07-26,17:20,Priya Nair,Chennai ,South Indian,Cafe,WALLET,474.0,0.0,27.0,4.0,Delivered
+ORD1236,2025-04-25,20:39,Isha Reddy,Bengaluru,Chinese,Cloud Kitchen,Cash on Delivery,363.0,73.0,32.0,5.0,Delivered
+ORD1031,19/10/2025,13:31,Deepa Singh,Delhi,Fast Food,Restaurant,UPI,293.0,59.0,40.0,5.0,Delivered
+ORD1155,2025-02-15,20:02,Meena Kumar,Bengaluru,South Indian,Restaurant,UPI,228.0,23.0,46.0,,Delivered
+ORD1351,2025-09-25,12:27,Isha Singh,Mumbai,North Indian,Restaurant,UPI,531.0,106.0,51.0,3.0,Delivered
+ORD1452,2025-11-07,12:03,Manoj Rao,Delhi,Fast Food,Restaurant,Credit Card,391.0,,37.0,3.0,Delivered
+ORD1433,2025-10-13,13:49,Isha Reddy,HYDERABAD ,North Indian,Restaurant,UPI,463.0,69.0,,3.0,Delivered
+ORD1280,2025-03-04,19:54,Rahul Patel,Chennai,North Indian,Restaurant,Cash on Delivery,415.0,83.0,54.0,3.0,Delivered
+ORD1052,2025-12-03,13:37,Lakshmi Menon,Chennai,South Indian,Restaurant,Debit Card,358.0,0.0,35.0,4.0,Delivered
+ORD1037,17-Aug-2025,21:59,Divya Patel,Hyderabad,Fast Food,Restaurant,cod,310.0,0.0,28.0,4.0,Delivered
+ORD1098,2025-08-10,13:36,Priya Patel,mumbai,Fast Food,Cloud Kitchen,Credit Card,562.0,56.0,40.0,3.0,Delivered
+ORD1422,28-Feb-2025,17:37,  karthik menon ,Delhi,Chinese,Restaurant,CC,245.0,0.0,,,Cancelled
+ORD1014,2025-03-09,16:39,Sneha Gupta,HYDERABAD ,Desserts,Cloud Kitchen,UPI,215.0,0.0,39.0,4.0,Delivered
+ORD1164,2025-01-27,23:38,Arjun Gupta,Hyderabad,chinese,Cloud Kitchen,UPI,447.0,45.0,,,Cancelled
+ORD1059,2025-12-12,16:36,Kavya Sharma,Delhi,South Indian,Restaurant,Upi,223.0,45.0,39.0,,Delivered
+ORD1064,2025-05-14,19:06,Kavya Joshi,DELHI,Fast Food,Restaurant,UPI,311.0,62.0,37.0,4.0,Delivered
+ORD1234,2025-12-31,12:45,Sneha Sharma,Pune,Biryani,Restaurant,Credit Card,393.0,59.0,,,Cancelled
+ORD1445,2025-10-17,17:19,Suresh Rao,Delhi,North Indian,Restaurant,Credit card,425.0,21.0,25.0,5.0,Delivered
+ORD1534,2025-01-28,12:13,Pooja Menon,Bengaluru,North Indian,Restaurant,Upi,365.0,0.0,29.0,5.0,Delivered
+ORD1413,2025-04-28,12:11,Manoj Iyer,Bengaluru,Biryani,Cloud Kitchen,UPI,248.0,0.0,44.0,4.0,Delivered
+ORD1586,2025-07-28,21:11,Priya Reddy,PUNE,Fast Food,Cafe,COD,345.0,69.0,40.0,,Delivered
+ORD1406,2025-09-02,13:01,VIKRAM SINGH,DELHI,North Indian,Restaurant,Credit Card,617.0,0.0,,,Cancelled
+ORD1266,2025-12-18,12:46,Deepa Patel,Bengaluru,North Indian,Cloud Kitchen,cod,264.0,53.0,40.0,4.0,Delivered
+ORD1540,01-Apr-2025,20:13,  Manoj Gupta ,Chennai,Desserts,Restaurant,cash on delivery,303.0,15.0,30.0,4.0,Delivered
+ORD1385,16-Apr-2025,20:54,Karthik Reddy,Mumbai,Chinese,Cloud Kitchen,UPI,383.0,77.0,52.0,4.0,Delivered
+ORD1405,13-Sep-2025,13:38,Vikram Kumar,Hyderabad,Biryani,Cafe,Credit card,535.0,27.0,42.0,4.0,Delivered
+ORD1079,2025-03-11,20:08,Nikhil Nair,Bengaluru,North Indian,Restaurant,UPI,269.0,13.0,37.0,4.0,Delivered
+ORD1046,2025-07-15,23:49,Pooja Gupta,Chennai ,Chinese,Cafe,COD,353.0,53.0,32.0,4.0,Delivered
+ORD1372,2025-10-29,13:23,Karthik Patel,Bengaluru,Biryani,Cafe,Upi,,30.0,39.0,5.0,Delivered
+ORD1332,2025-05-03,13:33,Manoj Kumar,Chennai,Fast Food,Restaurant,Cash on Delivery,278.0,0.0,29.0,5.0,Delivered
+ORD1158,2025-07-12,08:23,Manoj Kumar,Bengaluru,Desserts,Restaurant,UPI,297.0,15.0,27.0,5.0,Delivered
+ORD1025,2025-02-19,08:38,Meena Patel,Mumbai,South Indian,Restaurant,Credit Card,281.0,0.0,41.0,4.0,Delivered
+ORD1471,2025-05-29,08:19,Kavya Singh, Pune,Chinese,Restaurant,UPI,296.0,15.0,32.0,5.0,Delivered
+ORD1435,10-Apr-2025,13:44,SURESH RAO,Mumbai,Fast Food,Cloud Kitchen,upi,471.0,94.0,22.0,5.0,Delivered
+ORD1257,2025-09-30,16:47,nikhil iyer,Hyderabad,North Indian,Cafe,Debit Card,388.0,39.0,35.0,4.0,Delivered
+ORD1383,2025-12-04,13:18,Meena Sharma,Chennai,Chinese,Restaurant,Debit Card,446.0,89.0,52.0,3.0,Delivered
+ORD1571,2025-05-10,08:24,Pooja Sharma,Mumbai,Healthy,Cafe,UPI ,569.0,57.0,39.0,5.0,Delivered
+ORD1509,2025-08-18,13:43,Karthik Kumar,PUNE,South Indian,Cloud Kitchen,UPI,266.0,13.0,42.0,4.0,Delivered
+ORD1570,2025-04-13,19:08,Kavya Iyer,hyderabad,Fast Food,Restaurant,Debit Card,331.0,66.0,46.0,3.0,Delivered
+ORD1290,2025-11-01,13:23,pooja das,Bengaluru,South Indian,Restaurant,Debit Card,458.0,69.0,50.0,4.0,Delivered
+ORD1518,2025-07-28,19:08,  Divya Joshi ,chennai,Fast Food,Cafe,Cash on Delivery,325.0,16.0,37.0,4.0,Delivered
+ORD1589,2025-09-28,16:43,Suresh Sharma,Mumbai,South Indian,Cloud Kitchen,UPI,414.0,62.0,32.0,5.0,Delivered
+ORD1123,15/04/2025,19:20,Divya Sharma, Pune,North Indian,Restaurant,Wallet,669.0,0.0,43.0,5.0,Delivered
+ORD1320,2025-10-07,21:39,  Rohit Das ,Delhi,Biryani,Cloud Kitchen,Cash on Delivery,314.0,0.0,35.0,4.0,Delivered
+ORD1067,19-Feb-2025,19:30,  ISHA SHARMA ,Delhi,Biryani,Cloud Kitchen,Cash on Delivery,253.0,0.0,30.0,,Delivered
+ORD1195,21-May-2025,13:22,NIKHIL KUMAR,PUNE,Healthy,Cloud Kitchen,Debit Card,474.0,95.0,35.0,4.0,Delivered
+ORD1178,20-Jun-2025,16:54,Rohit Kumar,BENGALURU,BIRYANI,Cafe,UPI,496.0,74.0,37.0,4.0,Delivered
+ORD1207,2025-08-28,17:53,Nikhil Joshi,Mumbai,North Indian,Restaurant,DC,410.0,41.0,37.0,3.0,Delivered
+ORD1128,2025-08-01,17:55,KAVYA PATEL,Chennai,South Indian,Restaurant,UPI,397.0,79.0,37.0,5.0,Delivered
+ORD1177,2025-04-04,16:29,Lakshmi Singh,CHENNAI,Desserts,Cloud Kitchen,CC,175.0,26.0,34.0,5.0,Delivered
+ORD1337,2025-08-23,01:02,  Karthik Sharma ,Chennai,North Indian,Restaurant,UPI,568.0,0.0,,,Cancelled
+ORD1457,2025-12-17,08:54,Sneha Nair,DELHI,South Indian,Restaurant,UPI,311.0,0.0,33.0,,Delivered
+ORD1504,22-Aug-2025,08:03,Suresh Joshi,Hyderabad,Chinese,Restaurant,Cash on Delivery,297.0,30.0,25.0,5.0,Refunded
+ORD1001,2025-12-30,09:56,VIKRAM RAO,Chennai,South Indian,Restaurant,UPI,,12.0,17.0,,Delivered
+ORD1227,2025-07-13,19:56,Aditya Patel,Bengaluru,Biryani,Cloud Kitchen,Credit card,336.0,0.0,,,Delivered
+ORD1594,2025-10-22,08:45,Aditya Joshi,Delhi,Fast Food,Cloud Kitchen,Cash on Delivery,304.0,30.0,29.0,5.0,Delivered
+ORD1587,04-Feb-2025,12:00,Sneha Gupta,Mumbai,Biryani,Cafe,Cash on Delivery,-417.0,0.0,39.0,4.0,Delivered
+ORD1250,30-Nov-2025,23:31,Harish Kumar,MUMBAI,Biryani,Restaurant,UPI,578.0,0.0,36.0,4.0,Delivered
+ORD1378,08-Dec-2025,19:16,Rahul Das,Mumbai,Fast Food,Cloud Kitchen,Cash on Delivery,227.0,11.0,41.0,3.0,Delivered
+ORD1109,2025-08-27,13:01,Suresh Gupta,delhi,North Indian,Restaurant,debit card,518.0,26.0,32.0,5.0,Delivered
+ORD1427,2025-01-13,19:39,Vikram Sharma,chennai,South Indian,Cloud Kitchen,UPI,,67.0,35.0,5.0,Delivered
+ORD1194,2025-08-29,20:42,  Rohit Sharma ,Chennai,Biryani,Restaurant,Credit Card,607.0,0.0,41.0,3.0,Delivered
+ORD1006,05-Feb-2025,19:19,  Divya Reddy ,Delhi,Fast Food,Cloud Kitchen,cash on delivery,258.0,0.0,,,Cancelled
+ORD1261,15-Jul-2025,13:25,meena gupta,Delhi,Biryani,Restaurant,Debit Card,365.0,18.0,44.0,4.0,Delivered
+ORD1588,2025-01-06,20:51,ARJUN GUPTA,Bengaluru,Desserts,Restaurant,UPI,216.0,32.0,46.0,4.0,Delivered
+ORD1314,09-Feb-2025,20:22,Kavya Menon,DELHI,Chinese,Cafe,WALLET,692.0,104.0,38.0,5.0,Delivered
+ORD1555,2025-07-12,12:38,Rahul Menon,bangalore,South Indian,Cafe,cod,294.0,15.0,53.0,3.0,Delivered
+ORD1585,2025-10-06,13:56,Kavya Iyer,Chennai,Biryani,Cloud Kitchen,debit card,511.0,0.0,38.0,4.0,Delivered
+ORD1060,2025-09-09,23:33,isha patel,HYDERABAD ,Biryani,Restaurant,UPI,367.0,18.0,39.0,4.0,Delivered
+ORD1346,13-Jul-2025,17:05,  Karthik Iyer ,Mumbai,Fast Food,Cafe,Debit Card,416.0,83.0,34.0,5.0,Delivered
+ORD1048,2025-12-27,21:21,Suresh Nair,Hyderabad,North Indian,Cloud Kitchen,CC,525.0,0.0,44.0,4.0,Delivered
+ORD1542,2025-03-17,17:24,Divya Patel,Bengaluru,Biryani,Restaurant,Cash on Delivery,404.0,0.0,34.0,4.0,Delivered
+ORD1303,12-Jun-2025,21:54,Kavya Rao,Chennai ,South Indian,Cloud Kitchen,Debit Card,418.0,42.0,38.0,,Delivered
+ORD1498,2025-06-01,20:32,  Aditya Kumar ,MUMBAI,Fast Food,Cloud Kitchen,UPI ,237.0,47.0,34.0,4.0,Delivered
+ORD1458,2025-10-06,12:58,Manoj Kumar,hyderabad,Healthy,Cloud Kitchen,UPI,351.0,0.0,31.0,,Delivered
+ORD1121,2025-08-11,13:05,Harish Das,Bombay,Biryani,Cloud Kitchen,UPI,283.0,42.0,27.0,5.0,Delivered
+ORD1287,2025-01-04,20:16,ANANYA REDDY,Hyderabad,FAST FOOD,Restaurant,Cash on Delivery,285.0,14.0,42.0,4.0,Delivered
+ORD1423,2025-09-29,09:27,Manoj Sharma,Bengaluru,Chinese,Restaurant,UPI,297.0,45.0,33.0,4.0,Delivered
+ORD1415,2025-04-23,19:01,  Vikram Gupta ,BENGALURU,North Indian,Restaurant,Credit Card,311.0,0.0,39.0,5.0,Delivered
+ORD1562,2025-06-08,21:27,  Pooja Kumar ,Pune,Fast Food,Restaurant,Cash on Delivery,601.0,120.0,31.0,4.0,Delivered
+ORD1247,2025-06-01,12:42,  Rahul Singh ,PUNE,Biryani,Cloud Kitchen,UPI ,638.0,0.0,,5.0,Delivered
+ORD1467,2025-03-23,13:22,Vikram Sharma,Hyderabad,NORTH INDIAN,Restaurant,UPI,546.0,0.0,34.0,,Delivered
+ORD1533,22-Jun-2025,19:59,  Manoj Sharma ,pune,Chinese,Restaurant,Wallet,314.0,47.0,41.0,3.0,Delivered
+ORD1167,14-Aug-2025,21:51,PRIYA JOSHI,Hyderabad,Biryani,Restaurant,UPI,351.0,18.0,33.0,4.0,Delivered
+ORD1313,05-Nov-2025,16:25,  Ananya Joshi ,Bengaluru,Desserts,Restaurant,Cash on Delivery,134.0,7.0,0.0,4.0,Delivered
+ORD1054,19-May-2025,12:51,  Rahul Joshi ,Hyderabad,Chinese,Restaurant,Debit Card,261.0,0.0,34.0,5.0,Delivered
+ORD1210,2025-02-01,12:16,Vikram Menon,Mumbai,North Indian,Restaurant,Credit Card,441.0,66.0,43.0,4.0,Delivered
+ORD1521,14-Sep-2025,13:23,Rahul Joshi,Chennai,Chinese,Restaurant,UPI,507.0,0.0,31.0,4.0,Delivered
+ORD1223,2025-07-11,21:14,Kavya Reddy,Pune,North Indian,Restaurant,Wallet,473.0,47.0,,,Cancelled
+ORD1300,04-Aug-2025,17:45,Deepa Reddy,Bengaluru,Desserts,Restaurant,Credit Card,160.0,0.0,42.0,4.0,Delivered
+ORD1214,2025-10-26,12:50,Ananya Das,Bangalore,Fast Food,Restaurant,UPI,427.0,0.0,37.0,5.0,Delivered
+ORD1460,2025-06-07,13:45,Arjun Iyer,Pune,Chinese,Restaurant,UPI,391.0,39.0,33.0,,Delivered
+ORD1119,2025-09-21,21:29,Suresh Nair,CHENNAI,Biryani,Cloud Kitchen,Cash on Delivery,351.0,0.0,28.0,4.0,Delivered
+ORD1461,2025-02-21,09:54,Aditya Kumar,Hyderabad,North Indian,Restaurant,DC,373.0,0.0,22.0,4.0,Delivered
+ORD1389,08-Jan-2025,13:42,  Ananya Rao ,Mumbai,South Indian,Cloud Kitchen,upi,223.0,33.0,39.0,5.0,Delivered
+ORD1384,2025-12-16,20:03,suresh singh,Mumbai,Biryani,Restaurant,Debit Card,320.0,64.0,45.0,3.0,Delivered
+ORD1018,2025-07-19,13:22,  Arjun Das ,Pune,Fast Food,Cafe,Cash on Delivery,524.0,0.0,27.0,5.0,Delivered
+ORD1553,05-Oct-2025,12:59,VIKRAM RAO,Mumbai,Healthy,Cloud Kitchen,UPI ,487.0,24.0,42.0,4.0,Delivered
+ORD1495,2025-12-09,21:44,Aditya Joshi,Bengaluru,North Indian,Cafe,Cash on Delivery,650.0,0.0,43.0,3.0,Delivered
+ORD1043,2025-11-03,20:57,arjun nair,Mumbai,Healthy,Restaurant,Credit Card,439.0,0.0,33.0,5.0,Delivered
+ORD1550,2025-05-10,17:11,Suresh Gupta,Bengaluru,Biryani,Cloud Kitchen,UPI,396.0,40.0,36.0,4.0,Delivered
+ORD1476,21-Oct-2025,13:10,Manoj Iyer,Hyderabad,Biryani,Restaurant,wallet,293.0,0.0,,4.0,Delivered
+ORD1579,2025-01-28,20:13,Nikhil Iyer,Mumbai,Fast Food,Restaurant,debit card,359.0,,45.0,4.0,Delivered
+ORD1552,30-May-2025,21:44,Lakshmi Gupta,Bangalore,South Indian,Cloud Kitchen,Debit Card,209.0,0.0,50.0,4.0,Delivered
+ORD1133,15-Feb-2025,12:24,Aditya Sharma,Mumbai,healthy,Restaurant,UPI,255.0,51.0,29.0,5.0,Delivered
+ORD1077,2025-12-28,19:14,ROHIT PATEL,Mumbai,north indian,Cloud Kitchen,UPI,741.0,148.0,33.0,5.0,Delivered
+ORD1524,2025-06-08,20:36,Nikhil Singh,Delhi,South Indian,Cloud Kitchen,Cash on Delivery,284.0,,34.0,4.0,Delivered
+ORD1142,2025-01-31,13:53,Arjun Rao,Mumbai,Biryani,Restaurant,Wallet,403.0,,26.0,4.0,Delivered
+ORD1592,2025-05-18,12:06,Rohit Singh,Mumbai,south indian,Restaurant,Debit Card,317.0,48.0,45.0,4.0,Delivered
+ORD1074,2025-11-08,19:35,Manoj Sharma,Delhi,Chinese,Restaurant,UPI,323.0,16.0,38.0,4.0,Delivered
+ORD1307,2025-06-15,23:56,Harish Menon,MUMBAI,Chinese,Cloud Kitchen,Debit Card,407.0,61.0,42.0,4.0,Delivered
+ORD1528,2025-11-23,20:27,Vikram Kumar,HYDERABAD ,North Indian,Restaurant,UPI,641.0,96.0,37.0,4.0,Delivered
+ORD1578,2025-07-27,19:56,Manoj Singh,Mumbai,Biryani,Restaurant,Credit Card,568.0,57.0,50.0,4.0,Delivered
+ORD1574,03-Feb-2025,21:17,  SNEHA DAS ,CHENNAI,Chinese,Cloud Kitchen,UPI,346.0,69.0,45.0,3.0,Delivered
+ORD1153,2025-08-04,13:46,Sneha Kumar,Chennai,Healthy,Cloud Kitchen,UPI,432.0,0.0,42.0,4.0,Delivered
+ORD1033,29/04/2025,16:30,  Deepa Menon ,Chennai ,South Indian,Cafe,upi,234.0,23.0,33.0,4.0,Delivered
+ORD1016,2025-06-24,21:02,Lakshmi Iyer,Hyderabad,Chinese,Restaurant,UPI,267.0,0.0,43.0,3.0,Delivered
+ORD1436,2025-11-23,21:54,Rahul Menon,Pune,North Indian,Restaurant,UPI,257.0,39.0,,,Delivered
+ORD1499,2025-10-15,17:20,Priya Rao,Delhi,Fast Food,Cafe,UPI,25000.0,12.0,,9.0,Cancelled
+ORD1506,2025-07-12,12:17,sneha nair,Mumbai,Fast Food,Restaurant,UPI,307.0,46.0,43.0,4.0,Delivered
+ORD1404,2025-12-03,13:13,DIVYA KUMAR,Chennai,Healthy,Restaurant,Wallet,356.0,18.0,31.0,5.0,Delivered
+ORD1451,2025-09-09,19:21,  Arjun Patel ,Hyderabad,Fast Food,Cafe,UPI,295.0,59.0,44.0,4.0,Delivered
+ORD1036,2025-10-21,16:06,KAVYA RAO,Chennai ,Chinese,Restaurant,Upi,400.0,0.0,35.0,5.0,Delivered
+ORD1226,2025-10-09,19:06,Lakshmi Singh,Pune,south indian,Cafe,UPI,299.0,0.0,32.0,5.0,Refunded
+ORD1173,28-Apr-2025,21:49,Sneha Singh,Bombay,south indian,Cafe,UPI ,258.0,13.0,43.0,,Delivered
+ORD1242,2025-01-04,19:24,ROHIT MENON,chennai,Biryani,Cafe,UPI,393.0,39.0,44.0,,Delivered
+ORD1344,03-Dec-2025,13:57,Priya Reddy,Chennai,Fast Food,Restaurant,Cash on Delivery,250.0,12.0,37.0,4.0,Refunded
+ORD1157,29-Sep-2025,23:48,Priya Gupta,HYDERABAD ,Biryani,Restaurant,UPI,476.0,24.0,40.0,4.0,Refunded
+ORD1559,10-May-2025,09:36,KAVYA MENON,Mumbai,North Indian,Cloud Kitchen,Cash on Delivery,319.0,0.0,44.0,5.0,Delivered
+ORD1548,2025-08-23,20:42,  Nikhil Nair ,Pune,desserts,Cloud Kitchen,UPI ,150.0,8.0,47.0,4.0,Delivered
+ORD1507,29/06/2025,19:30,Manoj Menon,Bengaluru,Chinese,Restaurant,COD,281.0,28.0,42.0,4.0,Delivered
+ORD1279,2025-08-12,16:05,Vikram Sharma,Mumbai,South Indian,Restaurant,WALLET,,0.0,27.0,4.0,Delivered
+ORD1216,2025-03-14,12:40,Priya Singh,Mumbai,north indian,Restaurant,UPI,852.0,0.0,58.0,3.0,Delivered
+ORD1209,04-Dec-2025,12:53,  Suresh Iyer ,DELHI,Chinese,Cafe,Upi,293.0,29.0,43.0,4.0,Delivered
+ORD1065,2025-08-30,13:52,MANOJ SINGH,Delhi,North Indian,Cloud Kitchen,UPI,436.0,22.0,45.0,3.0,Delivered
+ORD1011,2025-06-11,20:03,MEENA SINGH,Mumbai,North Indian,Restaurant,UPI ,524.0,0.0,39.0,,Delivered
+ORD1179,2025-07-03,19:50,Manoj Nair,Chennai,Biryani,Restaurant,UPI ,364.0,55.0,24.0,5.0,Delivered
+ORD1253,2025-07-08,23:03,Nikhil Reddy,CHENNAI,Fast Food,Restaurant,Credit card,206.0,21.0,38.0,4.0,Delivered
+ORD1262,28-May-2025,13:01,Divya Iyer,Chennai,FAST FOOD,Cloud Kitchen,UPI,146.0,15.0,30.0,,Delivered
+ORD1101,16-Feb-2025,20:21,Rahul Iyer,Chennai,BIRYANI,Cloud Kitchen,UPI,543.0,109.0,34.0,5.0,Delivered
+ORD1168,2025-12-13,08:09,Deepa Sharma,Bengaluru,Biryani,Restaurant,DC,468.0,94.0,34.0,4.0,Delivered
+ORD1315,2025-12-07,21:39,Aditya Singh,Pune,North Indian,Restaurant,Cash on Delivery,431.0,43.0,29.0,4.0,Delivered
+ORD1519,2025-01-03,19:14,lakshmi nair,Delhi,South Indian,Restaurant,UPI ,191.0,19.0,48.0,4.0,Delivered
+ORD1541,23-Aug-2025,19:59,  Arjun Nair ,Delhi,Chinese,Restaurant,Upi,372.0,19.0,37.0,,Delivered
+ORD1447,2025-06-21,21:39,Vikram Iyer,Chennai,Biryani,Restaurant,Credit card,357.0,,46.0,4.0,Delivered
+ORD1582,2025-02-07,19:14,Deepa Kumar,Bombay,Healthy,Restaurant,UPI,,75.0,41.0,4.0,Delivered
+ORD1368,2025-05-07,19:53,ADITYA NAIR,Mumbai,North Indian,Cloud Kitchen,UPI,436.0,87.0,37.0,4.0,Delivered
+ORD1146,2025-01-11,23:03,Sneha Patel,hyderabad,Biryani,Restaurant,Debit Card,396.0,0.0,22.0,,Delivered
+ORD1363,2025-03-29,19:39,Suresh Singh,Chennai,Chinese,Cloud Kitchen,Credit Card,266.0,0.0,43.0,4.0,Delivered
+ORD1577,2025-01-08,21:52,  KARTHIK PATEL ,Bengaluru,Biryani,Cafe,UPI ,335.0,0.0,37.0,4.0,Delivered
+ORD1322,2025-09-17,21:21,Suresh Kumar,Hyderabad,North Indian,Restaurant,UPI ,361.0,0.0,39.0,4.0,Delivered
+ORD1186,28-Feb-2025,00:45,DIVYA KUMAR,Bengaluru,north indian,Cafe,Credit Card,428.0,43.0,35.0,4.0,Delivered
+ORD1133,15-Feb-2025,12:24,Aditya Sharma,Mumbai,healthy,Restaurant,UPI,255.0,51.0,29.0,5.0,Delivered
+ORD1120,2025-04-22,17:11,  Meena Menon ,Hyderabad,South Indian,Restaurant,credit card,167.0,0.0,26.0,5.0,Delivered
+ORD1278,2025-01-19,16:00,Deepa Rao,Hyderabad,North Indian,Cloud Kitchen,Upi,436.0,65.0,35.0,5.0,Delivered
+ORD1039,17-Nov-2025,19:55,Vikram Sharma,chennai,North Indian,Restaurant,UPI,399.0,20.0,27.0,,Delivered
+ORD1494,2025-11-16,13:33,harish singh,Hyderabad,Biryani,Cloud Kitchen,Debit Card,607.0,61.0,46.0,4.0,Delivered
+ORD1576,2025-11-30,17:21,Rahul Joshi,Chennai,Fast Food,Restaurant,UPI,351.0,35.0,50.0,,Delivered
+ORD1339,2025-04-24,12:27,Lakshmi Sharma,CHENNAI,Chinese,Restaurant,Credit Card,453.0,68.0,42.0,4.0,Delivered
+ORD1085,2025-03-24,19:17,Meena Gupta,Bengaluru,North Indian,Cloud Kitchen,Cash on Delivery,343.0,0.0,29.0,4.0,Delivered
+ORD1225,21-Jan-2025,12:49,  Divya Rao ,Chennai,Biryani,Cafe,Debit Card,701.0,70.0,39.0,4.0,Delivered
+ORD1020,02-Apr-2025,13:47,Lakshmi Rao,Delhi,Biryani,Cafe,Credit Card,344.0,34.0,44.0,4.0,Delivered
+ORD1073,2025-03-15,21:14,Vikram Nair,Mumbai,South Indian,Restaurant,Debit Card,309.0,15.0,28.0,4.0,Delivered
+ORD1419,2025-10-03,17:04,Priya Singh,Mumbai,Fast Food,Cloud Kitchen,Cash on Delivery,439.0,0.0,,9.0,Delivered
+ORD1076,2025-06-19,13:07,  Suresh Kumar ,Bengaluru,Biryani,Restaurant,Debit Card,289.0,0.0,31.0,5.0,Delivered
+ORD1381,2025-12-03,13:32,Ananya Joshi,Bengaluru,North Indian,Restaurant,Cash on Delivery,509.0,0.0,50.0,3.0,Delivered
+ORD1386,2025-03-28,00:49,VIKRAM GUPTA,Bengaluru,BIRYANI,Restaurant,upi,560.0,84.0,31.0,5.0,Delivered
+ORD1453,08-Jun-2025,23:58,Nikhil Nair,Hyderabad,Chinese,Restaurant,Cash on Delivery,246.0,49.0,32.0,5.0,Delivered
+ORD1265,2025-07-26,12:07,harish iyer,Delhi,fast food,Cafe,Cash on Delivery,461.0,0.0,,,Delivered
+ORD1041,2025-07-06,09:47,Sneha Rao,Delhi,South Indian,Cloud Kitchen,UPI,369.0,0.0,32.0,,Delivered
+ORD1429,2025-01-19,20:01,sneha gupta,Mumbai,fast food,Cloud Kitchen,UPI,453.0,0.0,35.0,5.0,Delivered
+ORD1161,2025-05-13,23:24,Aditya Rao,Bengaluru,Chinese,Cafe,Cash on Delivery,472.0,0.0,29.0,5.0,Delivered
+ORD1111,2025-05-06,19:35,Pooja Iyer,Bengaluru,South Indian,Restaurant,Debit Card,282.0,28.0,,,Cancelled
+ORD1304,2025-06-01,23:57,  divya joshi ,mumbai,Healthy,Restaurant,WALLET,315.0,16.0,43.0,3.0,Delivered
+ORD1597,2025-05-30,19:35,Suresh Joshi,Hyderabad,Fast Food,Cloud Kitchen,Credit Card,315.0,63.0,34.0,4.0,Delivered
+ORD1049,2025-08-09,12:44,Lakshmi Joshi,Bengaluru,Healthy,Restaurant,UPI,389.0,58.0,39.0,5.0,Delivered
+ORD1510,2025-11-02,12:10,Deepa Nair,Pune,chinese,Cloud Kitchen,Credit Card,259.0,13.0,25.0,,Delivered
+ORD1019,03-May-2025,13:39,harish singh,chennai,Biryani,Restaurant,Credit card,505.0,101.0,26.0,5.0,Delivered
+ORD1044,19/07/2025,19:34,Meena Menon,Bangalore,DESSERTS,Restaurant,Wallet,192.0,38.0,,,Cancelled
+ORD1274,26/07/2025,21:20,Nikhil Patel,Hyderabad,chinese,Restaurant,Credit Card,429.0,86.0,33.0,5.0,Delivered
+ORD1444,22-Jun-2025,17:26,Lakshmi Menon,Mumbai,Fast Food,Restaurant,Wallet,419.0,42.0,35.0,5.0,Delivered
+ORD1091,29/01/2025,12:18,  Rohit Iyer ,Mumbai,North Indian,Restaurant,Debit Card,474.0,0.0,,5.0,Delivered
+ORD1276,11-May-2025,12:30,Lakshmi Rao,Delhi,Fast Food,Cloud Kitchen,UPI,260.0,13.0,39.0,,Delivered
+ORD1115,2025-05-31,17:20,Rohit Joshi,Chennai,north indian,Restaurant,UPI,292.0,0.0,27.0,4.0,Delivered
+ORD1329,29-Nov-2025,13:35,  Aditya Singh ,BENGALURU,BIRYANI,Cloud Kitchen,UPI,419.0,63.0,44.0,4.0,Delivered
+ORD1581,2025-09-16,13:38,  Deepa Rao ,Delhi,Chinese,Restaurant,COD,198.0,30.0,43.0,,Delivered
+ORD1466,2025-04-10,13:29,Priya Kumar,Mumbai,Biryani,Restaurant,Upi,281.0,0.0,40.0,,Delivered
+ORD1132,2025-03-25,12:21,Suresh Reddy,Pune,Biryani,Restaurant,Credit Card,340.0,0.0,38.0,4.0,Delivered
+ORD1002,2025-06-08,12:49,DEEPA DAS,Pune,Desserts,Restaurant,UPI ,188.0,38.0,46.0,4.0,Delivered
+ORD1228,2025-12-08,13:55,  Suresh Nair ,Bangalore,Biryani,Restaurant,cash on delivery,351.0,0.0,39.0,3.0,Delivered
+ORD1134,2025-06-12,09:47,sneha nair,Chennai,Chinese,Cafe,UPI,296.0,0.0,28.0,4.0,Delivered
+ORD1249,2025-01-31,12:50,Divya Singh,Bengaluru,Fast Food,Cloud Kitchen,Wallet,365.0,18.0,52.0,4.0,Delivered
+ORD1284,2025-11-11,12:09,Suresh Kumar,Bengaluru,Desserts,Restaurant,UPI,213.0,11.0,34.0,5.0,Delivered
+ORD1497,N/A,20:43,Kavya Rao,mumbai,South Indian,Cloud Kitchen,debit card,186.0,19.0,47.0,,Delivered
+ORD1336,2025-03-19,17:47,Priya Singh,bangalore,Fast Food,Restaurant,upi,160.0,0.0,37.0,,Delivered
+ORD1440,2025-06-05,17:19,Rohit Iyer, Pune,NORTH INDIAN,Cafe,Cash on Delivery,308.0,0.0,22.0,5.0,Delivered
+ORD1264,14-Sep-2025,19:27,Meena Iyer,Mumbai,Biryani,Restaurant,Credit Card,499.0,50.0,28.0,4.0,Delivered
+ORD1143,2025-11-21,19:46,Arjun Patel,Bangalore,Biryani,Cafe,UPI,383.0,0.0,,4.0,Delivered
+ORD1246,2025-04-05,21:49,  Divya Gupta ,Hyderabad,Biryani,Restaurant,debit card,411.0,41.0,38.0,,Delivered
+ORD1028,17-Jul-2025,20:52,ROHIT NAIR,Mumbai,Biryani,Restaurant,UPI,334.0,50.0,39.0,4.0,Delivered
+ORD1442,04-Sep-2025,13:44,meena menon,Mumbai,Desserts,Cloud Kitchen,Cash on Delivery,,10.0,,,Cancelled
+ORD1139,2025-05-18,13:24,  Harish Menon ,Hyderabad,Biryani,Cloud Kitchen,UPI,238.0,48.0,42.0,,Delivered
+ORD1364,2025-02-12,13:09,arjun rao,Bangalore,Desserts,Cloud Kitchen,UPI,198.0,40.0,40.0,4.0,Delivered
+ORD1090,17-Apr-2025,21:16,ANANYA GUPTA,Bengaluru,Biryani,Cloud Kitchen,Debit Card,342.0,17.0,29.0,4.0,Delivered
+ORD1024,2025-11-30,12:34,Divya Patel,Bengaluru,South Indian,Restaurant,CC,459.0,23.0,46.0,,Delivered
+ORD1080,15-Oct-2025,13:33,Manoj Menon,Mumbai,North Indian,Cloud Kitchen,Cash on Delivery,-430.0,86.0,41.0,4.0,Delivered
+ORD1126,2025-06-03,21:11,Nikhil Joshi, Pune,Biryani,Restaurant,UPI,620.0,124.0,41.0,4.0,Delivered
+ORD1243,26/01/2025,21:03,Ananya Kumar,Bengaluru,Fast Food,Restaurant,cash on delivery,249.0,0.0,38.0,4.0,Delivered
+ORD1371,09-Apr-2025,19:37,Harish Iyer,Pune,Biryani,Cloud Kitchen,cod,271.0,14.0,,,Cancelled
+ORD1327,2025-12-15,21:15,Ananya Singh,bangalore,Biryani,Restaurant,CC,353.0,35.0,43.0,,Delivered
+ORD1580,15-Apr-2025,12:39,Lakshmi Rao,Hyderabad,Biryani,Cloud Kitchen,Wallet,414.0,41.0,32.0,5.0,Delivered
+ORD1505,01-Nov-2025,21:24,Meena Reddy,BENGALURU,South Indian,Cloud Kitchen,UPI,395.0,40.0,40.0,5.0,Delivered
+ORD1409,20-Jun-2025,12:15,Rahul Reddy,Bengaluru,Chinese,Cafe,UPI,265.0,0.0,,4.0,Delivered
+ORD1545,2025-06-01,13:18,sneha kumar,Delhi,South Indian,Cloud Kitchen,Cash on Delivery,256.0,0.0,27.0,5.0,Delivered
+ORD1082,2025-08-10,21:47,Ananya Gupta,Hyderabad,Chinese,Cafe,UPI,,28.0,32.0,4.0,Delivered
+ORD1469,2025-12-07,12:38,  Arjun Patel ,Bangalore,Healthy,Cloud Kitchen,Credit Card,422.0,0.0,51.0,,Delivered
+ORD1232,2025-06-03,23:20,priya patel,Mumbai,desserts,Cafe,UPI,186.0,9.0,27.0,5.0,Delivered
+ORD1502,23-Oct-2025,08:30,Kavya Iyer,Mumbai,North Indian,Cloud Kitchen,WALLET,578.0,116.0,41.0,4.0,Delivered
+ORD1038,2025-11-17,16:43,Rohit Menon,Delhi,Biryani,Restaurant,UPI,480.0,0.0,19.0,5.0,Delivered
+ORD1141,2025-06-18,21:47,  Kavya Iyer ,Bengaluru,Biryani,Restaurant,UPI,161.0,0.0,36.0,5.0,Refunded
+ORD1547,30-Nov-2025,08:26,Pooja Menon,Hyderabad,South Indian,Restaurant,UPI ,452.0,23.0,32.0,5.0,Delivered
+ORD1237,2025-09-12,19:45,Isha Sharma,Bengaluru,Biryani,Cloud Kitchen,COD,,,46.0,5.0,Delivered
+ORD1417,2025-06-30,20:26,divya rao,Bengaluru,Fast Food,Cloud Kitchen,UPI,338.0,17.0,22.0,5.0,Delivered
+ORD1338,2025-04-19,17:22,PRIYA SINGH,Bengaluru,Biryani,Cloud Kitchen,Credit Card,581.0,87.0,47.0,,Delivered
+ORD1584,2025-03-30,20:03,manoj menon,Pune,South Indian,Restaurant,UPI ,385.0,58.0,33.0,,Delivered
+ORD1333,2025-02-18,19:31,isha joshi,Delhi,South Indian,Restaurant,UPI,219.0,44.0,39.0,,Delivered
+ORD1270,2025-10-14,20:53,vikram singh,Mumbai,Desserts,Cafe,Cash on Delivery,,0.0,,,Cancelled
+ORD1338,2025-04-19,17:22,PRIYA SINGH,Bengaluru,Biryani,Cloud Kitchen,Credit Card,581.0,87.0,47.0,,Delivered
+ORD1092,2025-09-24,20:02,Karthik Gupta,Delhi,Fast Food,Restaurant,UPI,152.0,30.0,35.0,5.0,Delivered
+ORD1081,28-Aug-2025,13:56,Rahul Sharma,Pune,Biryani,Cloud Kitchen,WALLET,357.0,54.0,,5.0,Delivered
