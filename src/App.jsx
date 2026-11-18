@@ -5,6 +5,7 @@ import profilePhoto from "./assets/maharaja-photo.jpeg";
 import hrScreenshot from "./assets/HR DATASET.png";
 import healthcareScreenshot from "./assets/HEALTH CARE.png";
 import hotelScreenshot from "./assets/HOTEL BOOKING.png";
+import salesScreenshot from "./assets/SALES DASHBOARD.png";
 
 const skills = [
   "Python", "SQL", "Excel", "Power BI",
@@ -20,6 +21,7 @@ const projects = [
     description: "An interactive sales dashboard analyzing revenue, profit, product performance, and business trends.",
     tools: "Power BI • DAX • Excel",
     link: "https://github.com/Mahraja1718/Power-BI/blob/main/POWER%20PI/sales%20dashboard.pbix",
+    image: salesScreenshot,
     visual: "powerbi",
     visualTitle: "SALES PERFORMANCE",
     visualSubtitle: "Revenue • Profit • Growth",
