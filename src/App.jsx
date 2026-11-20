@@ -8,9 +8,18 @@ import hotelScreenshot from "./assets/HOTEL BOOKING.png";
 import salesScreenshot from "./assets/SALES DASHBOARD.png";
 
 const skills = [
-  "Python", "SQL", "Excel", "Power BI",
-  "Tableau", "Pandas", "NumPy", "MySQL",
-  "DAX", "Data Cleaning", "EDA", "Data Visualization",
+  "Python",
+  "SQL",
+  "Excel",
+  "Power BI",
+  "Tableau",
+  "Pandas",
+  "NumPy",
+  "MySQL",
+  "DAX",
+  "Data Cleaning",
+  "EDA",
+  "Data Visualization",
 ];
 
 const projects = [
@@ -18,19 +27,18 @@ const projects = [
     number: "01",
     title: "Sales Dashboard",
     category: "Power BI",
-    description: "An interactive sales dashboard analyzing revenue, profit, product performance, and business trends.",
+    description:
+      "An interactive sales dashboard analyzing revenue, profit, product performance, and business trends.",
     tools: "Power BI • DAX • Excel",
     link: "https://github.com/Mahraja1718/Power-BI/blob/main/POWER%20PI/sales%20dashboard.pbix",
     image: salesScreenshot,
-    visual: "powerbi",
-    visualTitle: "SALES PERFORMANCE",
-    visualSubtitle: "Revenue • Profit • Growth",
   },
   {
     number: "02",
     title: "HR Dataset Analysis",
     category: "Power BI",
-    description: "An HR analytics dashboard exploring employee data, attrition, workforce trends, and key HR metrics.",
+    description:
+      "An HR analytics dashboard exploring employee data, attrition, workforce trends, and key HR metrics.",
     tools: "Power BI • DAX • Data Analysis",
     link: "https://github.com/Mahraja1718/Power-BI-Project/blob/main/HR%20Dataset.pbix",
     image: hrScreenshot,
@@ -39,7 +47,8 @@ const projects = [
     number: "03",
     title: "Healthcare Analysis",
     category: "Power BI",
-    description: "A healthcare dashboard analyzing patient visits, ratings, and operational performance.",
+    description:
+      "A healthcare dashboard analyzing patient visits, ratings, and operational performance.",
     tools: "Power BI • DAX • Excel",
     link: "https://github.com/Mahraja1718/Power-BI-Project/blob/main/healthcare%20dataset.pbix",
     image: healthcareScreenshot,
@@ -48,7 +57,8 @@ const projects = [
     number: "04",
     title: "Global Layoffs Analysis",
     category: "SQL",
-    description: "An exploratory analysis identifying global layoff patterns, industries, and company trends.",
+    description:
+      "An exploratory analysis identifying global layoff patterns, industries, and company trends.",
     tools: "MySQL • SQL • EDA",
     link: "https://github.com/Mahraja1718/Mysql-project/blob/main/project1.sql",
     visual: "sql",
@@ -59,7 +69,8 @@ const projects = [
     number: "05",
     title: "Housing Price Analysis",
     category: "Tableau",
-    description: "A visualization project exploring housing prices and property-related trends.",
+    description:
+      "A visualization project exploring housing prices and property-related trends.",
     tools: "Tableau • Data Visualization",
     link: "https://github.com/Mahraja1718/Tableau/tree/main/TABLEAU",
     visual: "tableau",
@@ -70,7 +81,8 @@ const projects = [
     number: "06",
     title: "Hotel Booking Analysis",
     category: "Power BI",
-    description: "An interactive report analyzing bookings, cancellations, guest metrics, and stay duration.",
+    description:
+      "An interactive report analyzing bookings, cancellations, guest metrics, and stay duration.",
     tools: "Power BI • DAX • Excel",
     link: "https://github.com/Mahraja1718/Power-BI-Project/blob/main/Hotel%20Booking%20Dataset.pbix",
     image: hotelScreenshot,
@@ -79,7 +91,8 @@ const projects = [
     number: "07",
     title: "Netflix Dataset Analysis",
     category: "Python",
-    description: "Exploring Netflix movies and TV shows, genres, ratings, release years, and content trends.",
+    description:
+      "Exploring Netflix movies and TV shows, genres, ratings, release years, and content trends.",
     tools: "Python • Pandas • Matplotlib",
     link: "https://github.com/Mahraja1718/maharaja-portfolio/tree/main/Project/Netflix-Dataset-Analysis",
     visual: "netflix",
@@ -90,7 +103,8 @@ const projects = [
     number: "08",
     title: "Medical Students Analysis",
     category: "Python",
-    description: "Cleaning and analyzing medical student records, missing values, BMI, and health-related patterns.",
+    description:
+      "Cleaning and analyzing medical student records, missing values, BMI, and health-related patterns.",
     tools: "Python • Pandas • NumPy",
     link: "https://github.com/Mahraja1718/maharaja-portfolio/tree/main/Project/Medical-Students-Analysis",
     visual: "medical",
@@ -101,7 +115,8 @@ const projects = [
     number: "09",
     title: "Food Delivery Analysis",
     category: "Python",
-    description: "Analyzing food orders, delivery times, customer ratings, payment methods, and cancellations.",
+    description:
+      "Analyzing food orders, delivery times, customer ratings, payment methods, and cancellations.",
     tools: "Python • Pandas • Seaborn",
     link: "https://github.com/Mahraja1718/maharaja-portfolio/tree/main/Project/Food-Delivery-Analysis",
     visual: "food",
@@ -112,7 +127,8 @@ const projects = [
     number: "10",
     title: "E-commerce Dataset Analysis",
     category: "Python",
-    description: "Cleaning and exploring e-commerce product data, categories, and product-related trends.",
+    description:
+      "Cleaning and exploring e-commerce product data, categories, and product-related trends.",
     tools: "Python • Pandas • NumPy",
     link: "https://github.com/Mahraja1718/maharaja-portfolio/tree/main/Project/Ecommerce-Dataset-Analysis",
     visual: "ecommerce",
@@ -123,7 +139,8 @@ const projects = [
     number: "11",
     title: "Excel Dashboard",
     category: "Excel",
-    description: "An interactive dashboard using Pivot Tables, charts, and slicers to explore business data.",
+    description:
+      "An interactive dashboard using Pivot Tables, charts, and slicers to explore business data.",
     tools: "Excel • Pivot Tables • Charts",
     link: "https://github.com/Mahraja1718/Excel/tree/main/EXCEL",
     visual: "excel",
@@ -135,6 +152,7 @@ const projects = [
 function App() {
   return (
     <div className="portfolio">
+      {/* NAVBAR */}
       <header className="navbar">
         <a href="#home" className="logo">
           Maharaja<span>.</span>
@@ -147,15 +165,14 @@ function App() {
           <a href="#projects">Projects</a>
           <a href="#education">Education</a>
           <a href="#contact">Contact</a>
-          <a
-             href={`${import.meta.env.BASE_URL}Maharaja_K_Data_Analyst_Resume.pdf`}
-             download="Maharaja_K_Data_Analyst_Resume.pdf"
-             className="primary-button"
-          >
-          Download Resume
-          <span>↓</span>
-          </a>
 
+          <a
+            href={`${import.meta.env.BASE_URL}Maharaja_K_Data_Analyst_Resume.pdf`}
+            download="Maharaja_K_Data_Analyst_Resume.pdf"
+            className="primary-button"
+          >
+            Download Resume <span>↓</span>
+          </a>
         </nav>
 
         <a href="#contact" className="nav-button">
@@ -194,16 +211,26 @@ function App() {
               <a href="#projects" className="primary-button">
                 Explore My Work <span>↗</span>
               </a>
+
               <a href="#contact" className="secondary-button">
                 Contact Me
               </a>
             </div>
 
             <div className="social-links">
-              <a href="https://github.com/Mahraja1718" target="_blank" rel="noreferrer">
+              <a
+                href="https://github.com/Mahraja1718"
+                target="_blank"
+                rel="noreferrer"
+              >
                 GitHub ↗
               </a>
-              <a href="https://www.linkedin.com/in/maharaja-k/" target="_blank" rel="noreferrer">
+
+              <a
+                href="https://www.linkedin.com/in/maharaja-k/"
+                target="_blank"
+                rel="noreferrer"
+              >
                 LinkedIn ↗
               </a>
             </div>
@@ -224,11 +251,16 @@ function App() {
               </div>
 
               <div className="chart">
-                {[35, 58, 45, 75, 55, 88, 68, 100].map((height, index) => (
-                  <div className="bar-wrapper" key={index}>
-                    <div className="bar" style={{ height: `${height}%` }}></div>
-                  </div>
-                ))}
+                {[35, 58, 45, 75, 55, 88, 68, 100].map(
+                  (height, index) => (
+                    <div className="bar-wrapper" key={index}>
+                      <div
+                        className="bar"
+                        style={{ height: `${height}%` }}
+                      ></div>
+                    </div>
+                  )
+                )}
               </div>
 
               <div className="chart-footer">
@@ -258,7 +290,9 @@ function App() {
         <section className="section about-section" id="about">
           <div className="section-heading">
             <p className="section-label">01 / ABOUT ME</p>
-            <h2>A little about <span>myself.</span></h2>
+            <h2>
+              A little about <span>myself.</span>
+            </h2>
           </div>
 
           <div className="about-content">
@@ -267,7 +301,9 @@ function App() {
             </div>
 
             <div className="about-text">
-              <h3>Curious mind. Analytical thinking. Continuous learning.</h3>
+              <h3>
+                Curious mind. Analytical thinking. Continuous learning.
+              </h3>
 
               <p>
                 I am a B.Tech Information Technology graduate with a
@@ -299,7 +335,9 @@ function App() {
         <section className="section skills-section" id="skills">
           <div className="section-heading">
             <p className="section-label">02 / MY SKILLS</p>
-            <h2>Tools I work <span>with.</span></h2>
+            <h2>
+              Tools I work <span>with.</span>
+            </h2>
             <p className="section-subtitle">
               Technologies and tools I use to explore, analyze, and
               visualize data.
@@ -323,7 +361,9 @@ function App() {
         <section className="section projects-section" id="projects">
           <div className="section-heading">
             <p className="section-label">03 / MY WORK</p>
-            <h2>Featured <span>projects.</span></h2>
+            <h2>
+              Featured <span>projects.</span>
+            </h2>
             <p className="section-subtitle">
               A collection of analytical projects where I turn data into
               meaningful stories.
@@ -335,25 +375,44 @@ function App() {
               <article className="project-card" key={project.number}>
                 <div className="project-top">
                   <span>{project.number} / PROJECT</span>
-                  <span className="project-category">{project.category}</span>
+                  <span className="project-category">
+                    {project.category}
+                  </span>
                 </div>
 
                 <div className="project-thumbnail">
                   {project.image ? (
-                    <img src={project.image} alt={`${project.title} screenshot`} />
+                    <img
+                      src={project.image}
+                      alt={`${project.title} screenshot`}
+                    />
                   ) : (
                     <div className={`thumbnail-art ${project.visual}`}>
                       <div className="thumbnail-grid-lines"></div>
+
                       <div className="thumbnail-content">
-                        <span className="thumbnail-kicker">DATA ANALYSIS PROJECT</span>
+                        <span className="thumbnail-kicker">
+                          DATA ANALYSIS PROJECT
+                        </span>
+
                         <strong>{project.visualTitle}</strong>
-                        <span className="thumbnail-subtitle">{project.visualSubtitle}</span>
+
+                        <span className="thumbnail-subtitle">
+                          {project.visualSubtitle}
+                        </span>
+
                         <div className="thumbnail-bars">
-                          {[35, 65, 45, 85, 55, 100, 72].map((height, index) => (
-                            <span key={index} style={{ height: `${height}%` }}></span>
-                          ))}
+                          {[35, 65, 45, 85, 55, 100, 72].map(
+                            (height, index) => (
+                              <span
+                                key={index}
+                                style={{ height: `${height}%` }}
+                              ></span>
+                            )
+                          )}
                         </div>
                       </div>
+
                       <span className="thumbnail-mark">↗</span>
                     </div>
                   )}
@@ -362,7 +421,9 @@ function App() {
                 <h3>{project.title}</h3>
                 <p>{project.description}</p>
 
-                <div className="project-tools">{project.tools}</div>
+                <div className="project-tools">
+                  {project.tools}
+                </div>
 
                 <a
                   className="project-link"
@@ -382,7 +443,9 @@ function App() {
         <section className="section education-section" id="education">
           <div className="section-heading">
             <p className="section-label">04 / EDUCATION</p>
-            <h2>My learning <span>journey.</span></h2>
+            <h2>
+              My learning <span>journey.</span>
+            </h2>
           </div>
 
           <div className="timeline">
@@ -407,41 +470,131 @@ function App() {
         </section>
 
         {/* CONTACT */}
-        <section className="contact-section section" id="contact">
-          <p className="section-label">05 / GET IN TOUCH</p>
+        <section id="contact" className="contact-section">
+          <div className="section-heading">
+            <p className="section-label">GET IN TOUCH</p>
+            <h2>Let's Work Together</h2>
+            <p>
+              Have an opportunity or project in mind?
+              I'd love to connect and discuss how I can help.
+            </p>
+          </div>
 
-          <h2>
-            Let's turn data
-            <br />
-            into <span>something meaningful.</span>
-          </h2>
+          <div className="contact-container">
+            {/* Contact Information */}
+            <div className="contact-info">
+              <h3>Let's Connect</h3>
 
-          <p>
-            I'm looking forward to starting my career and connecting
-            with people who love data and technology.
-          </p>
+              <p>
+                I'm actively looking for Data Analyst opportunities.
+                Feel free to reach out!
+              </p>
 
-          <div className="contact-actions">
-            <a href="mailto:YOUR_EMAIL@gmail.com" className="primary-button">
-              Email Me ↗
-            </a>
+              <div className="contact-item">
+                <span>✉️</span>
+                <div>
+                  <h4>Email</h4>
+                  <a href="mailto:maharaja1761@gmail.com">
+                    maharaja1761@gmail.com
+                  </a>
+                </div>
+              </div>
 
-            <a
-              href="https://www.linkedin.com/in/maharaja-k/"
-              target="_blank"
-              rel="noreferrer"
-              className="secondary-button"
+              <div className="contact-item">
+                <span>💼</span>
+                <div>
+                  <h4>LinkedIn</h4>
+                  <a
+                    href="https://www.linkedin.com/in/maharaja-k/"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    View LinkedIn Profile ↗
+                  </a>
+                </div>
+              </div>
+
+              <div className="contact-item">
+                <span>💻</span>
+                <div>
+                  <h4>GitHub</h4>
+                  <a
+                    href="https://github.com/Mahraja1718"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    View GitHub Profile ↗
+                  </a>
+                </div>
+              </div>
+            </div>
+
+            {/* Contact Form */}
+            <form
+              className="contact-form"
+              onSubmit={(e) => {
+                e.preventDefault();
+
+                const formData = new FormData(e.currentTarget);
+                const name = formData.get("name");
+                const email = formData.get("email");
+                const message = formData.get("message");
+
+                const subject = encodeURIComponent(
+                  `Portfolio Contact - ${name}`
+                );
+
+                const body = encodeURIComponent(
+                  `Name: ${name}\nEmail: ${email}\n\nMessage:\n${message}`
+                );
+
+                window.location.href =
+                  `mailto:maharaja1761@gmail.com?subject=${subject}&body=${body}`;
+              }}
             >
-              LinkedIn ↗
-            </a>
+              <h3>Send Me a Message</h3>
+
+              <label htmlFor="contact-name">Your Name</label>
+              <input
+                id="contact-name"
+                type="text"
+                name="name"
+                placeholder="Enter your name"
+                required
+              />
+
+              <label htmlFor="contact-email">Your Email</label>
+              <input
+                id="contact-email"
+                type="email"
+                name="email"
+                placeholder="Enter your email"
+                required
+              />
+
+              <label htmlFor="contact-message">Your Message</label>
+              <textarea
+                id="contact-message"
+                name="message"
+                placeholder="Write your message..."
+                rows="5"
+                required
+              />
+
+              <button type="submit" className="primary-button">
+                Send Message →
+              </button>
+            </form>
           </div>
         </section>
       </main>
 
+      {/* FOOTER */}
       <footer className="footer">
         <a href="#home" className="logo">
           Maharaja<span>.</span>
         </a>
+
         <p>Designed & built with passion.</p>
         <p>© 2026 Maharaja K. All rights reserved.</p>
       </footer>
