@@ -147,6 +147,15 @@ function App() {
           <a href="#projects">Projects</a>
           <a href="#education">Education</a>
           <a href="#contact">Contact</a>
+          <a
+             href={`${import.meta.env.BASE_URL}Maharaja_K_Data_Analyst_Resume.pdf`}
+             download="Maharaja_K_Data_Analyst_Resume.pdf"
+             className="primary-button"
+          >
+          Download Resume
+          <span>↓</span>
+          </a>
+
         </nav>
 
         <a href="#contact" className="nav-button">
